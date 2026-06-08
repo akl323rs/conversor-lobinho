@@ -5,6 +5,7 @@ fetch('equivalencias.json')
   .then(res => res.json())
   .then(data => {
     equivalencias = data;
+    console.log('Equivalências carregadas:', equivalencias.length);
   });
 
 document.getElementById('btnGerar').addEventListener('click', () => {
@@ -24,49 +25,69 @@ document.getElementById('btnGerar').addEventListener('click', () => {
   }
 
   const linhas = texto.split(/\r?\n/);
+
   const resultados = [];
 
   for (let i = 0; i < linhas.length; i++) {
 
     const linha = linhas[i].trim();
 
-    const codigoMatch = linha.match(/^([A-Z]+\d+)\s+/);
+    // Procura códigos como:
+    // A1
+    // A12
+    // C1
+    // etc.
+
+    const codigoMatch = linha.match(/^([A-Z]+\d+)/i);
 
     if (!codigoMatch) continue;
 
-    const codigo = codigoMatch[1];
+    const codigo = codigoMatch[1].trim().toUpperCase();
 
     let data = null;
 
-    for (let j = i + 1; j <= i + 3 && j < linhas.length; j++) {
+    // Procura a data nas próximas linhas
+    for (let j = i + 1; j <= i + 5 && j < linhas.length; j++) {
 
       const proxLinha = linhas[j].trim();
 
+      // Se encontrar data válida
       if (/^\d{2}\/\d{2}\/\d{4}$/.test(proxLinha)) {
         data = proxLinha;
         break;
       }
 
+      // Se encontrar "Informe a data"
       if (proxLinha.toLowerCase().includes('informe a data')) {
         break;
       }
     }
 
+    // Ignora itens sem conclusão
     if (!data) continue;
 
-    const equivalentes = equivalencias.filter(eq => eq.codigoAntigo === codigo);
+    // Busca equivalências
+    const equivalentes = equivalencias.filter(eq =>
+      eq.codigoAntigo &&
+      eq.codigoAntigo.toString().trim().toUpperCase() === codigo
+    );
 
+    // Adiciona resultados
     equivalentes.forEach(eq => {
+
       resultados.push({
-        codigoNovo: eq.codigoNovo,
-        itemNovo: eq.itemNovo,
+        codigoNovo: eq.codigoNovo || '',
+        itemNovo: eq.itemNovo || '',
         data: data,
-        bloco: eq.bloco
+        bloco: eq.bloco || ''
       });
+
     });
+
   }
 
   renderizarTabela(resultados);
+
 });
 
 function renderizarTabela(resultados) {
@@ -74,8 +95,15 @@ function renderizarTabela(resultados) {
   const div = document.getElementById('resultado');
 
   if (resultados.length === 0) {
-    div.innerHTML = '<p>Nenhuma equivalência encontrada.</p>';
+
+    div.innerHTML = `
+      <p>
+        Nenhuma equivalência encontrada.
+      </p>
+    `;
+
     document.getElementById('btnCopiar').style.display = 'none';
+
     return;
   }
 
@@ -93,6 +121,7 @@ function renderizarTabela(resultados) {
   `;
 
   resultados.forEach(r => {
+
     html += `
       <tr>
         <td>${r.codigoNovo}</td>
@@ -101,15 +130,20 @@ function renderizarTabela(resultados) {
         <td>${r.bloco}</td>
       </tr>
     `;
+
   });
 
-  html += '</tbody></table>';
+  html += `
+      </tbody>
+    </table>
+  `;
 
   div.innerHTML = html;
 
   document.getElementById('btnCopiar').style.display = 'inline-block';
 
   configurarCopia();
+
 }
 
 function configurarCopia() {
@@ -127,10 +161,14 @@ function configurarCopia() {
       const cols = Array.from(row.cells).map(cell => cell.innerText);
 
       texto += cols.join('\t') + '\n';
+
     }
 
     navigator.clipboard.writeText(texto);
 
     alert('Tabela copiada! Agora você pode colar no Excel.');
+
   };
+
 }
+

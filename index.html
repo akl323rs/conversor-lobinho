@@ -1,51 +1,203 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
+
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Conversor de Equivalências - Programa Educativo Lobinho</title>
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    Equivalência de Progressões - Programa Educativo Lobinho
+  </title>
+
   <link rel="stylesheet" href="style.css">
+
 </head>
+
 <body>
 
-<div class="container">
-  <h1>Conversor de Equivalências - Programa Educativo Lobinho</h1>
+  <div class="container">
 
-  <div class="warning-box">
-    <p><strong>Antes de utilizar esta ferramenta, consulte o Manual Oficial de Equivalência do Ramo Lobinho.</strong></p>
+    <h1>
+      🐺 Conversor de Progressões
+    </h1>
 
-    <p>A ferramenta possui caráter exclusivamente auxiliar e administrativo.</p>
+    <p class="subtitle">
+      Novo Programa Educativo - Ramo Lobinho
+    </p>
 
-    <p>Os resultados são gerados automaticamente com base nas equivalências cadastradas e nas informações fornecidas pelo usuário.</p>
+    <div class="warning-box">
 
-    <p>A avaliação da progressão pessoal do jovem, a validação das equivalências e a tomada de decisões educativas permanecem sob responsabilidade da equipe de adultos da seção.</p>
+      <h2>
+        ⚠️ Avisos Importantes
+      </h2>
 
-    <p>Esta ferramenta não substitui:</p>
+      <p>
+        Antes de utilizar esta ferramenta, consulte o Manual Oficial de Equivalência do Ramo Lobinho.
+      </p>
 
-    <ul>
-      <li>o acompanhamento individual do jovem;</li>
-      <li>a avaliação educativa;</li>
-      <li>as orientações oficiais dos Escoteiros do Brasil;</li>
-      <li>a análise da equipe de adultos.</li>
-    </ul>
+      <p>
+        📘
+        <a
+          href="https://www.escoteiros.org.br/wp-content/uploads/2026/02/Equivalencia_ramo_lobinho.pdf"
+          target="_blank"
+        >
+          Clique aqui para acessar o Manual Oficial de Equivalências
+        </a>
+      </p>
 
-    <p><strong>Recomenda-se a conferência de todos os resultados antes de sua utilização em registros oficiais.</strong></p>
+      <hr>
+
+      <h3>
+        📝 Como utilizar
+      </h3>
+
+      <ol>
+
+        <li>
+          Acesse o Paxtu Administrativo.
+        </li>
+
+        <li>
+          Vá em:
+          <strong>
+            Associado → Dados do Associado
+          </strong>
+        </li>
+
+        <li>
+          Escolha o lobinho desejado.
+        </li>
+
+        <li>
+          Acesse a aba
+          <strong>
+            Vida Escoteira
+          </strong>.
+        </li>
+
+        <li>
+          Abra:
+          <strong>
+            Atividades - Lobinho
+          </strong>
+        </li>
+
+        <li>
+          Em cada uma das abas de caminho, selecione o texto desde a palavra
+          <strong>
+            "Caminho"
+          </strong>
+          até a última data exibida.
+        </li>
+
+        <li>
+          Copie e cole o conteúdo na caixa abaixo.
+        </li>
+
+        <li>
+          Repita o processo para cada uma das 3 abas de caminho.
+        </li>
+
+        <li>
+          Clique em
+          <strong>
+            "Gerar Equivalências"
+          </strong>.
+        </li>
+
+      </ol>
+
+      <p>
+        🎥 Em breve: vídeo tutorial mostrando como copiar corretamente as informações do Paxtu.
+      </p>
+
+      <hr>
+
+      <p>
+        A ferramenta possui caráter exclusivamente auxiliar e administrativo.
+      </p>
+
+      <p>
+        Os resultados são gerados automaticamente com base nas equivalências cadastradas e nas informações fornecidas pelo usuário.
+      </p>
+
+      <p>
+        A avaliação da progressão pessoal do jovem, a validação das equivalências e a tomada de decisões educativas permanecem sob responsabilidade da equipe de adultos da seção.
+      </p>
+
+      <p>
+        Esta ferramenta não substitui:
+      </p>
+
+      <ul>
+
+        <li>
+          o acompanhamento individual do jovem;
+        </li>
+
+        <li>
+          a avaliação educativa;
+        </li>
+
+        <li>
+          as orientações oficiais dos Escoteiros do Brasil;
+        </li>
+
+        <li>
+          a análise da equipe de adultos.
+        </li>
+
+      </ul>
+
+      <p>
+        <strong>
+          Recomenda-se a conferência de todos os resultados antes de sua utilização em registros oficiais.
+        </strong>
+      </p>
+
+    </div>
+
+    <label class="checkbox-container">
+
+      <input
+        type="checkbox"
+        id="confirmacao"
+      >
+
+      Li o manual oficial e compreendo que esta ferramenta é apenas um apoio administrativo.
+
+    </label>
+
+    <textarea
+      id="inputTexto"
+      placeholder="Cole aqui o relatório copiado do Paxtu..."
+    ></textarea>
+
+    <button id="btnGerar">
+      Gerar Equivalências
+    </button>
+
+    <div id="resultado"></div>
+
+    <button
+      id="btnCopiar"
+      style="display:none;"
+    >
+      Copiar para Excel
+    </button>
+
   </div>
 
-  <label class="checkbox-container">
-    <input type="checkbox" id="confirmacao">
-    Li o manual oficial e compreendo que esta ferramenta é apenas um apoio administrativo.
-  </label>
+  <script src="script.js"></script>
 
-  <textarea id="inputTexto" placeholder="Cole aqui o relatório do Paxtu..."></textarea>
-
-  <button id="btnGerar">Gerar Equivalências</button>
-
-  <div id="resultado"></div>
-
-  <button id="btnCopiar" style="display:none;">Copiar para Excel</button>
-</div>
-
-<script src="script.js"></script>
 </body>
+
 </html>
+
+

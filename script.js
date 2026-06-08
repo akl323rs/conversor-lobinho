@@ -149,7 +149,7 @@ function configurarCopia() {
 
       const cols = Array.from(row.cells).map(cell => cell.innerText);
 
-      texto += cols.join('\\t') + '\\n';
+      texto += cols.join('\t') + '\n';
 
     }
 

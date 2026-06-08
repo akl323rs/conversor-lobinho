@@ -6,38 +6,35 @@ body {
   color: #333;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .container {
-  width: 100%;
-  max-width: 1100px;
+  max-width: 1200px;
   margin: auto;
   background: white;
-  padding: 24px;
-  border-radius: 16px;
-  box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+  padding: 28px;
+  border-radius: 18px;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.08);
 }
 
 h1 {
   margin-top: 0;
   color: #004387;
-  font-size: 34px;
+  font-size: 2.2rem;
   font-weight: 800;
+  text-align: center;
 }
 
 .subtitle {
-  margin-top: -8px;
-  margin-bottom: 24px;
+  text-align: center;
   color: #666;
-  font-size: 18px;
+  margin-top: -10px;
+  margin-bottom: 30px;
+  font-size: 1.05rem;
 }
 
 .warning-box {
   background: #fff7ed;
   border: 2px solid #fdba74;
-  padding: 20px;
+  padding: 22px;
   border-radius: 14px;
   margin-bottom: 24px;
   line-height: 1.6;
@@ -65,54 +62,95 @@ h1 {
 .checkbox-container {
   display: block;
   margin-bottom: 18px;
-  font-weight: bold;
+  font-weight: 700;
+  font-size: 15px;
 }
 
 textarea {
   width: 100%;
-  min-height: 280px;
-  padding: 14px;
-  border-radius: 10px;
-  border: 2px solid #d1d5db;
+  height: 260px;
+  padding: 16px;
+  border-radius: 12px;
+  border: 2px solid #d6d6d6;
   resize: vertical;
   font-size: 14px;
+  box-sizing: border-box;
   font-family: inherit;
+  transition: 0.2s;
 }
 
 textarea:focus {
   outline: none;
-  border-color: #FAB81B;
-  box-shadow: 0 0 0 4px rgba(250,184,27,0.2);
+  border-color: #004387;
+  box-shadow: 0 0 0 4px rgba(0,67,135,0.1);
 }
 
 button {
-  margin-top: 16px;
-  background: #FAB81B;
+  margin-top: 18px;
+  background: #004387;
   color: white;
   border: none;
-  padding: 14px 20px;
+  padding: 13px 22px;
   border-radius: 10px;
   cursor: pointer;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: 700;
   transition: 0.2s;
 }
 
 button:hover {
-  background: #e0a400;
+  background: #0057ad;
+  transform: translateY(-1px);
+}
+
+.links-planilhas {
+  margin-top: 30px;
+  padding: 20px;
+  background: #eff6ff;
+  border: 2px solid #bfdbfe;
+  border-radius: 14px;
+}
+
+.links-planilhas h3 {
+  margin-top: 0;
+  color: #004387;
+}
+
+.botoes-links {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.botao-link {
+  display: inline-block;
+  background: #004387;
+  color: white;
+  text-decoration: none;
+  padding: 12px 18px;
+  border-radius: 10px;
+  font-weight: 700;
+  transition: 0.2s;
+}
+
+.botao-link:hover {
+  background: #0057ad;
   transform: translateY(-1px);
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
-  margin-top: 24px;
-  min-width: 900px;
+  margin-top: 28px;
+  background: white;
+  border-radius: 14px;
+  overflow: hidden;
 }
 
 th,
 td {
-  border: 1px solid #ddd;
+  border: 1px solid #e5e7eb;
   padding: 12px;
   text-align: left;
   vertical-align: top;
@@ -122,8 +160,7 @@ td {
 th {
   background: #004387;
   color: white;
-  position: sticky;
-  top: 0;
+  font-weight: 700;
 }
 
 tr:nth-child(even) {
@@ -131,7 +168,7 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-  background: #fff7ed;
+  background: #eef6ff;
 }
 
 #resultado {
@@ -139,48 +176,14 @@ tr:hover {
   margin-top: 20px;
 }
 
-.footer {
+.rodape {
   margin-top: 40px;
   padding-top: 20px;
   border-top: 1px solid #ddd;
-  font-size: 13px;
   color: #666;
+  font-size: 13px;
   text-align: center;
   line-height: 1.6;
-}
-
-.tools-box {
-  margin-top: 24px;
-  padding: 20px;
-  background: #eff6ff;
-  border: 2px solid #93c5fd;
-  border-radius: 14px;
-}
-
-.tools-box h3 {
-  margin-top: 0;
-  color: #1d4ed8;
-}
-
-.tools-buttons {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin-top: 16px;
-}
-
-.tools-buttons a {
-  background: #004387;
-  color: white;
-  padding: 12px 16px;
-  border-radius: 10px;
-  text-decoration: none;
-  font-weight: bold;
-  transition: 0.2s;
-}
-
-.tools-buttons a:hover {
-  background: #002f61;
 }
 
 /* RESPONSIVO */
@@ -192,27 +195,34 @@ tr:hover {
   }
 
   .container {
-    padding: 16px;
+    padding: 18px;
+    border-radius: 14px;
   }
 
   h1 {
-    font-size: 28px;
+    font-size: 1.7rem;
   }
 
-  .subtitle {
-    font-size: 16px;
+  textarea {
+    height: 220px;
   }
 
   button {
     width: 100%;
   }
 
-  .tools-buttons {
+  .botoes-links {
     flex-direction: column;
   }
 
-  .tools-buttons a {
+  .botao-link {
     text-align: center;
+  }
+
+  th,
+  td {
+    font-size: 13px;
+    padding: 10px;
   }
 
 }

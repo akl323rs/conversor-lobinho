@@ -15,12 +15,33 @@ body {
   box-shadow: 0 6px 24px rgba(0,0,0,0.08);
 }
 
-h1 {
+/* =========================
+   TÍTULO
+========================= */
+
+.titulo-site {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+
   margin-top: 0;
+
   color: #004387;
+
   font-size: 2.2rem;
   font-weight: 800;
+
   text-align: center;
+}
+
+.titulo-icone {
+  width: 34px;
+  height: 34px;
+
+  object-fit: contain;
+
+  border-radius: 50%;
 }
 
 .subtitle {
@@ -30,6 +51,10 @@ h1 {
   margin-bottom: 30px;
   font-size: 1.05rem;
 }
+
+/* =========================
+   AVISOS
+========================= */
 
 .warning-box {
   background: #fff7ed;
@@ -59,12 +84,20 @@ h1 {
   text-decoration: underline;
 }
 
+/* =========================
+   CHECKBOX
+========================= */
+
 .checkbox-container {
   display: block;
   margin-bottom: 18px;
   font-weight: 700;
   font-size: 15px;
 }
+
+/* =========================
+   TEXTAREA
+========================= */
 
 textarea {
   width: 100%;
@@ -85,6 +118,10 @@ textarea:focus {
   box-shadow: 0 0 0 4px rgba(0,67,135,0.1);
 }
 
+/* =========================
+   BOTÕES
+========================= */
+
 button {
   margin-top: 18px;
   background: #004387;
@@ -103,41 +140,9 @@ button:hover {
   transform: translateY(-1px);
 }
 
-.links-planilhas {
-  margin-top: 30px;
-  padding: 20px;
-  background: #eff6ff;
-  border: 2px solid #bfdbfe;
-  border-radius: 14px;
-}
-
-.links-planilhas h3 {
-  margin-top: 0;
-  color: #004387;
-}
-
-.botoes-links {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin-top: 16px;
-}
-
-.botao-link {
-  display: inline-block;
-  background: #004387;
-  color: white;
-  text-decoration: none;
-  padding: 12px 18px;
-  border-radius: 10px;
-  font-weight: 700;
-  transition: 0.2s;
-}
-
-.botao-link:hover {
-  background: #0057ad;
-  transform: translateY(-1px);
-}
+/* =========================
+   TABELA
+========================= */
 
 table {
   width: 100%;
@@ -176,54 +181,6 @@ tr:hover {
   margin-top: 20px;
 }
 
-.rodape {
-  margin-top: 40px;
-  padding-top: 20px;
-  border-top: 1px solid #ddd;
-  color: #666;
-  font-size: 13px;
-  text-align: center;
-  line-height: 1.6;
-}
-
-/* RESPONSIVO */
-
-@media (max-width: 768px) {
-
-  body {
-    padding: 12px;
-  }
-
-  .container {
-    padding: 18px;
-    border-radius: 14px;
-  }
-
-  h1 {
-    font-size: 1.7rem;
-  }
-
-  textarea {
-    height: 220px;
-  }
-
-  button {
-    width: 100%;
-  }
-
-  .botoes-links {
-    flex-direction: column;
-  }
-
-  .botao-link {
-    text-align: center;
-  }
-
-  th,
-  td {
-    font-size: 13px;
-    padding: 10px;
-  }
 /* =========================
    FERRAMENTAS DE APOIO
 ========================= */
@@ -271,9 +228,51 @@ tr:hover {
   transform: translateY(-2px);
 }
 
-/* Responsivo */
+/* =========================
+   RODAPÉ
+========================= */
+
+.rodape {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #ddd;
+  color: #666;
+  font-size: 13px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+/* =========================
+   RESPONSIVO
+========================= */
 
 @media (max-width: 768px) {
+
+  body {
+    padding: 12px;
+  }
+
+  .container {
+    padding: 18px;
+    border-radius: 14px;
+  }
+
+  .titulo-site {
+    font-size: 1.7rem;
+  }
+
+  .titulo-icone {
+    width: 28px;
+    height: 28px;
+  }
+
+  textarea {
+    height: 220px;
+  }
+
+  button {
+    width: 100%;
+  }
 
   .extras-buttons {
     flex-direction: column;
@@ -283,28 +282,10 @@ tr:hover {
     text-align: center;
   }
 
-
-.titulo-site {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 14px;
-
-  margin-top: 0;
-
-  color: #004387;
-
-  font-size: 2.2rem;
-  font-weight: 800;
-
-  text-align: center;
-}
-
-.titulo-icone {
-  width: 54px;
-  height: 54px;
-
-  object-fit: contain;
-}
+  th,
+  td {
+    font-size: 13px;
+    padding: 10px;
+  }
 
 }

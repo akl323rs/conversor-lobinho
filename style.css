@@ -224,5 +224,65 @@ tr:hover {
     font-size: 13px;
     padding: 10px;
   }
+/* =========================
+   FERRAMENTAS DE APOIO
+========================= */
+
+.extras-box {
+  margin-top: 32px;
+  background: #eff6ff;
+  border: 2px solid #bfdbfe;
+  border-radius: 18px;
+  padding: 26px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+}
+
+.extras-box h2 {
+  margin-top: 0;
+  color: #003366;
+  font-size: 1.5rem;
+}
+
+.extras-box p {
+  color: #374151;
+  line-height: 1.6;
+}
+
+.extras-buttons {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.extra-btn {
+  background: #003b82;
+  color: white;
+  text-decoration: none;
+  padding: 14px 22px;
+  border-radius: 12px;
+  font-weight: 700;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.extra-btn:hover {
+  background: #0057ad;
+  transform: translateY(-2px);
+}
+
+/* Responsivo */
+
+@media (max-width: 768px) {
+
+  .extras-buttons {
+    flex-direction: column;
+  }
+
+  .extra-btn {
+    text-align: center;
+  }
+
+}
 
 }

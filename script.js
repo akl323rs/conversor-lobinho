@@ -28,43 +28,28 @@ document.getElementById('btnGerar').addEventListener('click', () => {
 
   const resultados = [];
 
-  for (let i = 0; i < linhas.length; i++) {
+  linhas.forEach(linha => {
 
-    const linha = linhas[i].trim();
+    linha = linha.trim();
 
-    // Procura códigos como:
-    // A1
-    // A12
-    // C1
-    // etc.
+    // Procura:
+    // Código + qualquer texto + data
+    //
+    // Exemplo:
+    // F1 Conhecer... 19/07/2025
 
-    const codigoMatch = linha.match(/^([A-Z]+\d+)/i);
+    const match = linha.match(/^([A-Z]+\d+)\s+.*?(\d{2}\/\d{2}\/\d{4}|Informe a data)/i);
 
-    if (!codigoMatch) continue;
+    if (!match) return;
 
-    const codigo = codigoMatch[1].trim().toUpperCase();
+    const codigo = match[1].trim().toUpperCase();
 
-    let data = null;
+    const data = match[2];
 
-    // Procura a data nas próximas linhas
-    for (let j = i + 1; j <= i + 5 && j < linhas.length; j++) {
-
-      const proxLinha = linhas[j].trim();
-
-      // Se encontrar data válida
-      if (/^\d{2}\/\d{2}\/\d{4}$/.test(proxLinha)) {
-        data = proxLinha;
-        break;
-      }
-
-      // Se encontrar "Informe a data"
-      if (proxLinha.toLowerCase().includes('informe a data')) {
-        break;
-      }
+    // Ignora itens não concluídos
+    if (data.toLowerCase().includes('informe')) {
+      return;
     }
-
-    // Ignora itens sem conclusão
-    if (!data) continue;
 
     // Busca equivalências
     const equivalentes = equivalencias.filter(eq =>
@@ -72,7 +57,6 @@ document.getElementById('btnGerar').addEventListener('click', () => {
       eq.codigoAntigo.toString().trim().toUpperCase() === codigo
     );
 
-    // Adiciona resultados
     equivalentes.forEach(eq => {
 
       resultados.push({
@@ -84,7 +68,7 @@ document.getElementById('btnGerar').addEventListener('click', () => {
 
     });
 
-  }
+  });
 
   renderizarTabela(resultados);
 
@@ -97,9 +81,7 @@ function renderizarTabela(resultados) {
   if (resultados.length === 0) {
 
     div.innerHTML = `
-      <p>
-        Nenhuma equivalência encontrada.
-      </p>
+      <p>Nenhuma equivalência encontrada.</p>
     `;
 
     document.getElementById('btnCopiar').style.display = 'none';
@@ -160,7 +142,7 @@ function configurarCopia() {
 
       const cols = Array.from(row.cells).map(cell => cell.innerText);
 
-      texto += cols.join('\t') + '\n';
+      texto += cols.join('\\t') + '\\n';
 
     }
 

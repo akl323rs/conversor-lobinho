@@ -1,1556 +1,1588 @@
-[
-  {
-    "codigoAntigo": "A1",
-    "itemAntigo": "Conversar e brincar com todos os (as) lobinhos (as) e com os Velhos Lobos.",
-    "codigoNovo": "VIN-V-101",
-    "itemNovo": "Conversar e brincar com todos os (as) lobinhos (as) e com os Velhos Lobos.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A10",
-    "itemAntigo": "Conhecer a família de um (a) lobinho (a) da Alcatéia e convidar um (a) lobinho (a) para um momento de convivência com sua família.",
-    "codigoNovo": "PAZ-V-101",
-    "itemNovo": "Conhecer a família de um (a) lobinho (a) da Alcatéia e convidar um (a) lobinho (a) para um momento de convivência com sua família.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "A11",
-    "itemAntigo": "Anotar durante duas semanas todas as boas ações que praticou diariamente e apresentar para um Velho Lobo.",
-    "codigoNovo": "PAZ-V-102",
-    "itemNovo": "Anotar durante duas semanas todas as boas ações que praticou diariamente e apresentar para um Velho Lobo.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "A12",
-    "itemAntigo": "Fazer uma economia para comprar algo útil para a Alcatéia ou para alguém à sua escolha.",
-    "codigoNovo": "PAZ-V-103",
-    "itemNovo": "Fazer uma economia para comprar algo útil para a Alcatéia ou para alguém à sua escolha.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "A13",
-    "itemAntigo": "Visitar com sua Matilha um asilo / creche ou outra entidade de assistência e ajudar a fazer algo de que necessitam.",
-    "codigoNovo": "PAZ-V-104",
-    "itemNovo": "Visitar com sua Matilha um asilo / creche ou outra entidade de assistência e ajudar a fazer algo de que necessitam.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "A13",
-    "itemAntigo": "Visitar com sua Matilha um asilo / creche ou outra entidade de assistência e ajudar a fazer algo de que necessitam.",
-    "codigoNovo": "COM-V-002",
-    "itemNovo": "Visitar um lar de idosos, creche ou entidade assistencial, prestando apoio conforme necessidade.",
-    "bloco": "Comunidade"
-  },
-  {
-    "codigoAntigo": "A14",
-    "itemAntigo": "Ter uma agenda com telefone e/ou e-mail dos seus amigos e manter contato com eles.",
-    "codigoNovo": "VIN-V-106",
-    "itemNovo": "Ter uma agenda com telefone e/ou e-mail dos seus amigos e manter contato com eles.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A14",
-    "itemAntigo": "Ter uma agenda com telefone e/ou e-mail dos seus amigos e manter contato com eles.",
-    "codigoNovo": "VIN-V-011",
-    "itemNovo": "Manter contato com amigos da alcateia além da atividade semanal.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A15",
-    "itemAntigo": "Ajudar algum amigo (a) com algo que seja difícil para ele (a) e relatar esta experiência a um Velho Lobo.",
-    "codigoNovo": "VIN-V-107",
-    "itemNovo": "Ajudar algum amigo (a) com algo que seja difícil para ele (a) e relatar esta experiência a um Velho Lobo.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A15",
-    "itemAntigo": "Ajudar algum amigo (a) com algo que seja difícil para ele (a) e relatar esta experiência a um Velho Lobo.",
-    "codigoNovo": "SMA-V-002",
-    "itemNovo": "Ajudar um amigo com alguma dificuldade e relatar a experiência a um Velho Lobo.",
-    "bloco": "Saúde Mental"
-  },
-  {
-    "codigoAntigo": "A16",
-    "itemAntigo": "Receber com alegria os lobinhos novos e ajudá-los a se integrarem à Alcatéia.",
-    "codigoNovo": "VIN-V-108",
-    "itemNovo": "Receber com alegria os lobinhos novos e ajudá-los a se integrarem à Alcatéia.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A16",
-    "itemAntigo": "Receber com alegria os lobinhos novos e ajudá-los a se integrarem à Alcatéia.",
-    "codigoNovo": "VIN-V-007",
-    "itemNovo": "Acolher os novos lobinhos e ajudá-los a se integrar na alcateia.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A17",
-    "itemAntigo": "Pedir para a sua Matilha e para os Velhos Lobos escreverem algumas qualidades e defeitos seus e refletir sobre isso.",
-    "codigoNovo": "IEM-V-101",
-    "itemNovo": "Pedir para a sua Matilha e para os Velhos Lobos escreverem algumas qualidades e defeitos seus e refletir sobre isso.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "A17",
-    "itemAntigo": "Pedir para a sua Matilha e para os Velhos Lobos escreverem algumas qualidades e defeitos seus e refletir sobre isso.",
-    "codigoNovo": "VIN-V-109",
-    "itemNovo": "Pedir para a sua Matilha e para os Velhos Lobos escreverem algumas qualidades e defeitos seus e refletir sobre isso.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A17",
-    "itemAntigo": "Pedir para a sua Matilha e para os Velhos Lobos escreverem algumas qualidades e defeitos seus e refletir sobre isso.",
-    "codigoNovo": "IEM-V-001",
-    "itemNovo": "Conversar com a família, responsáveis ou Velhos Lobos sobre pontos que gosta e não gosta em si mesmo e como melhorá-los.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "A18",
-    "itemAntigo": "Conhecer as principais diferenças físicas entre homens e mulheres e perguntar a seus pais ou para os Velhos Lobos sobre curiosidades que tenha a respeito de sexo.",
-    "codigoNovo": "VIN-V-110",
-    "itemNovo": "Conhecer as principais diferenças físicas entre homens e mulheres e perguntar a seus pais ou para os Velhos Lobos sobre curiosidades que tenha a respeito de sexo.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A19",
-    "itemAntigo": "Pesquisar sobre as realizações de três homens e de três mulheres que foram importantes para a humanidade.",
-    "codigoNovo": "VIN-V-111",
-    "itemNovo": "Pesquisar sobre as realizações de três homens e de três mulheres que foram importantes para a humanidade.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A2",
-    "itemAntigo": "Cumprimentar outros membros do Grupo Escoteiro por meio da saudação do lobinho e do aperto de mão.",
-    "codigoNovo": "VIN-V-102",
-    "itemNovo": "Cumprimentar outros membros do Grupo Escoteiro por meio da saudação do lobinho e do aperto de mão.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A2",
-    "itemAntigo": "Cumprimentar outros membros do Grupo Escoteiro por meio da saudação do lobinho e do aperto de mão.",
-    "codigoNovo": "VIN-F-002",
-    "itemNovo": "Cumprimentar membros do grupo com a saudação do lobinho e o aperto de mão.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A3",
-    "itemAntigo": "Trazer um amigo ou parente para participar de uma reunião e conhecer a Alcatéia.",
-    "codigoNovo": "VIN-V-103",
-    "itemNovo": "Trazer um amigo ou parente para participar de uma reunião e conhecer a Alcatéia.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A3",
-    "itemAntigo": "Trazer um amigo ou parente para participar de uma reunião e conhecer a Alcatéia.",
-    "codigoNovo": "VIN-V-004",
-    "itemNovo": "Convidar um amigo ou parente para conhecer e participar de uma atividade da alcateia.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A4",
-    "itemAntigo": "Trazer fotos de sua família e mostrar à Alcateia contando algo sobre cada pessoa e sobre as coisas que mais gosta de fazer com elas.",
-    "codigoNovo": "VIN-V-104",
-    "itemNovo": "Trazer fotos de sua família e mostrar à Alcateia contando algo sobre cada pessoa e sobre as coisas que mais gosta de fazer com elas.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A5",
-    "itemAntigo": "Participar de um acampamento ou acantonamento com sua Alcateia sem a presença de seus pais.",
-    "codigoNovo": "VIN-V-105",
-    "itemNovo": "Participar de um acampamento ou acantonamento com sua Alcateia sem a presença de seus pais.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "A6",
-    "itemAntigo": "Fazer uma lista com coisas que o deixam alegre, triste e com medo.",
-    "codigoNovo": "SMA-V-101",
-    "itemNovo": "Fazer uma lista com coisas que o deixam alegre, triste e com medo.",
-    "bloco": "Saúde Mental"
-  },
-  {
-    "codigoAntigo": "A7",
-    "itemAntigo": "Conhecer a história de Rikki Tikki Tavi.",
-    "codigoNovo": "SMA-V-102",
-    "itemNovo": "Conhecer a história de Rikki Tikki Tavi.",
-    "bloco": "Saúde Mental"
-  },
-  {
-    "codigoAntigo": "A8",
-    "itemAntigo": "Contar para um Velho Lobo sobre três boas ações que praticou em casa ou na escola.",
-    "codigoNovo": "VAL-V-101",
-    "itemNovo": "Contar para um Velho Lobo sobre três boas ações que praticou em casa ou na escola.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "A8",
-    "itemAntigo": "Contar para um Velho Lobo sobre três boas ações que praticou em casa ou na escola.",
-    "codigoNovo": "VAL-V-001",
-    "itemNovo": "Contar a um Velho Lobo sobre três boas ações que praticou.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "A9",
-    "itemAntigo": "Participar com sua Alcateia ou Grupo Escoteiro de uma campanha de ajuda ao próximo, doando algo seu para a campanha.",
-    "codigoNovo": "VAL-V-102",
-    "itemNovo": "Participar com sua Alcateia ou Grupo Escoteiro de uma campanha de ajuda ao próximo, doando algo seu para a campanha.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "A9",
-    "itemAntigo": "Participar com sua Alcateia ou Grupo Escoteiro de uma campanha de ajuda ao próximo, doando algo seu para a campanha.",
-    "codigoNovo": "COM-V-001",
-    "itemNovo": "Participar ativamente de uma campanha de ajuda ao próximo com sua alcateia ou grupo escoteiro.",
-    "bloco": "Comunidade"
-  },
-  {
-    "codigoAntigo": "C1",
-    "itemAntigo": "Saber quem é Baloo e porque ele ensina a viver de acordo com a Lei da Jângal.",
-    "codigoNovo": "VAL-V-006",
-    "itemNovo": "Saber quem é Baloo e o motivo dele ensinar a viver de acordo com a Lei da Jângal.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "C10",
-    "itemAntigo": "Fazer uma lista com coisas que pode fazer e coisas que não pode fazer e discutir sobre elas em roda de conversa da Alcatéia.",
-    "codigoNovo": "IEM-V-104",
-    "itemNovo": "Fazer uma lista com coisas que pode fazer e coisas que não pode fazer e discutir sobre elas em roda de conversa da Alcatéia.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "C11",
-    "itemAntigo": "Narrar ou representar a história de uma pessoa cujo trabalho seja ajudar os demais.",
-    "codigoNovo": "VIN-V-112",
-    "itemNovo": "Narrar ou representar a história de uma pessoa cujo trabalho seja ajudar os demais.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "C12",
-    "itemAntigo": "Aplaudir, por meio de um Bravo verdadeiramente alegre, a vitória de seu adversário numa competição.",
-    "codigoNovo": "VIN-V-113",
-    "itemNovo": "Aplaudir, por meio de um Bravo verdadeiramente alegre, a vitória de seu adversário numa competição.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "C13",
-    "itemAntigo": "Conhecer a história 'Tigre Tigre' e comparar a promessa de Mowgli com a sua Promessa de Lobinho.",
-    "codigoNovo": "VAL-F-001",
-    "itemNovo": "Ouvir a história \"Tigre! Tigre!\" e comparar a conduta de Mowgli com a sua Promessa de Lobinho.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "C14",
-    "itemAntigo": "Fazer uma lista com atitudes que mostram o cumprimento da Lei e Promessa.",
-    "codigoNovo": "VAL-V-108",
-    "itemNovo": "Fazer uma lista com atitudes que mostram o cumprimento da Lei e Promessa.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "C15",
-    "itemAntigo": "Empenhar-se para fazer alguma coisa que tenha encontrado dificuldade ou que não tenha conseguido fazer.",
-    "codigoNovo": "IEM-V-105",
-    "itemNovo": "Empenhar-se para fazer alguma coisa que tenha encontrado dificuldade ou que não tenha conseguido fazer.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "C15",
-    "itemAntigo": "Empenhar-se para fazer alguma coisa que tenha encontrado dificuldade ou que não tenha conseguido fazer.",
-    "codigoNovo": "IEM-V-005",
-    "itemNovo": "Escolher um pequeno desafio que dá insegurança e tentar superá-lo.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "C16",
-    "itemAntigo": "Listar os seus pontos fortes e seus pontos fracos, identificar o que mais precisa melhorar em você e esforçar-se para isso.",
-    "codigoNovo": "IEM-V-106",
-    "itemNovo": "Listar os seus pontos fortes e seus pontos fracos, identificar o que mais precisa melhorar em você e esforçar-se para isso.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "C16",
-    "itemAntigo": "Listar os seus pontos fortes e seus pontos fracos, identificar o que mais precisa melhorar em você e esforçar-se para isso.",
-    "codigoNovo": "IEM-V-001",
-    "itemNovo": "Conversar com a família, responsáveis ou Velhos Lobos sobre pontos que gosta e não gosta em si mesmo e como melhorá-los.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "C2",
-    "itemAntigo": "Trazer a ideia de um jogo agradável e divertido.",
-    "codigoNovo": "VAL-V-104",
-    "itemNovo": "Trazer a ideia de um jogo agradável e divertido.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "C2",
-    "itemAntigo": "Trazer a ideia de um jogo agradável e divertido.",
-    "codigoNovo": "CRI-V-007",
-    "itemNovo": "Ensinar um jogo para outros lobinhos.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "C3",
-    "itemAntigo": "Demonstrar que é capaz de manter o bom humor em um momento de dificuldade.",
-    "codigoNovo": "VAL-V-105",
-    "itemNovo": "Demonstrar que é capaz de manter o bom humor em um momento de dificuldade.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "C3",
-    "itemAntigo": "Demonstrar que é capaz de manter o bom humor em um momento de dificuldade.",
-    "codigoNovo": "IEM-V-002",
-    "itemNovo": "Contar a um Velho Lobo sobre um momento difícil recente e descrever o que ajudou a melhorar a situação.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "C4",
-    "itemAntigo": "Contar para um Velho Lobo uma situação em que disse a verdade, mesmo correndo o risco de ser repreendido (a).",
-    "codigoNovo": "VAL-V-106",
-    "itemNovo": "Contar para um Velho Lobo uma situação em que disse a verdade, mesmo correndo o risco de ser repreendido (a).",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "C5",
-    "itemAntigo": "Encarregar-se de um dos serviços da Alcateia durante um Ciclo de Programa e realizar bem essa tarefa.",
-    "codigoNovo": "APR-V-117",
-    "itemNovo": "Encarregar-se de um dos serviços da Alcateia durante um Ciclo de Programa e realizar bem essa tarefa.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "C6",
-    "itemAntigo": "Mostrar a um Velho Lobo os melhores trabalhos ou tarefas que realizou nos últimos seis meses.",
-    "codigoNovo": "APR-V-118",
-    "itemNovo": "Mostrar a um Velho Lobo os melhores trabalhos ou tarefas que realizou nos últimos seis meses.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "C7",
-    "itemAntigo": "Planejar, organizar e executar um pequeno projeto científico, artístico ou utilitário.",
-    "codigoNovo": "CRI-V-006",
-    "itemNovo": "Planejar, organizar e executar um pequeno projeto científico, artístico ou utilitário.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "C8",
-    "itemAntigo": "Contar para um Velho Lobo sobre os conselhos recebidos de seus pais e professores e como está se esforçando para atendê-los.",
-    "codigoNovo": "IEM-V-102",
-    "itemNovo": "Contar para um Velho Lobo sobre os conselhos recebidos de seus pais e professores e como está se esforçando para atendê-los.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "C9",
-    "itemAntigo": "Analisar o comportamento das personagens em Caçadas de Kaa, percebendo as ações certas e as erradas e suas conseqüências.",
-    "codigoNovo": "IEM-V-103",
-    "itemNovo": "Analisar o comportamento das personagens em Caçadas de Kaa, percebendo as ações certas e as erradas e suas conseqüências.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "E1",
-    "itemAntigo": "Em um passeio com a Alcateia, observar as belas coisas da natureza e agradecer por existirem.",
-    "codigoNovo": "ESP-V-101",
-    "itemNovo": "Em um passeio com a Alcateia, observar as belas coisas da natureza e agradecer por existirem.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E1",
-    "itemAntigo": "Em um passeio com a Alcateia, observar as belas coisas da natureza e agradecer por existirem.",
-    "codigoNovo": "ARL-V-004",
-    "itemNovo": "Em uma caminhada com a alcateia, observar a natureza, identificar diferentes sons e agradecer por sua existência.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "E10",
-    "itemAntigo": "Procurar uma forma de praticar uma boa ação em seu Grupo Escoteiro ou escola.",
-    "codigoNovo": "COM-V-102",
-    "itemNovo": "Procurar uma forma de praticar uma boa ação em seu Grupo Escoteiro ou escola.",
-    "bloco": "Comunidade"
-  },
-  {
-    "codigoAntigo": "E10",
-    "itemAntigo": "Procurar uma forma de praticar uma boa ação em seu Grupo Escoteiro ou escola.",
-    "codigoNovo": "COM-V-003",
-    "itemNovo": "Identificar uma forma de praticar uma Boa Ação e realizá-la.",
-    "bloco": "Comunidade"
-  },
-  {
-    "codigoAntigo": "E11",
-    "itemAntigo": "Criar uma oração e conduzi-la em um momento especial.",
-    "codigoNovo": "ESP-V-107",
-    "itemNovo": "Criar uma oração e conduzi-la em um momento especial.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E11",
-    "itemAntigo": "Criar uma oração e conduzi-la em um momento especial.",
-    "codigoNovo": "ESP-V-001",
-    "itemNovo": "Realizar orações de agradecimento ou momento de reflexão nas atividades da alcateia.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E12",
-    "itemAntigo": "Pesquisar uma oração em forma de canção e ensiná-la para a Alcateia.",
-    "codigoNovo": "ESP-V-108",
-    "itemNovo": "Pesquisar uma oração em forma de canção e ensiná-la para a Alcateia.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E13",
-    "itemAntigo": "Dizer quais são os principais preceitos de sua fé.",
-    "codigoNovo": "VAL-V-109",
-    "itemNovo": "Dizer quais são os principais preceitos de sua fé.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "E14",
-    "itemAntigo": "Escrever uma história ou desenhar uma história em quadrinhos que mostre uma situação em que você agiu de acordo com os ensinamentos de sua fé.",
-    "codigoNovo": "VAL-V-110",
-    "itemNovo": "Escrever uma história ou desenhar uma história em quadrinhos que mostre uma situação em que você agiu de acordo com os ensinamentos de sua fé.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "E15",
-    "itemAntigo": "Conhecer a história de Francisco de Assis e sua visão da natureza e das pessoas, inclusive o episódio com o Lobo de Gubbio.",
-    "codigoNovo": "PAZ-V-107",
-    "itemNovo": "Conhecer a história de Francisco de Assis e sua visão da natureza e das pessoas, inclusive o episódio com o Lobo de Gubbio.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "E16",
-    "itemAntigo": "Fazer uma lista com 5 atitudes positivas que percebeu em outras pessoas.",
-    "codigoNovo": "PAZ-V-108",
-    "itemNovo": "Fazer uma lista com 5 atitudes positivas que percebeu em outras pessoas.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "E2",
-    "itemAntigo": "Fazer um cartaz com coisas criadas por Deus e afixar na gruta.",
-    "codigoNovo": "ESP-V-102",
-    "itemNovo": "Fazer um cartaz com coisas criadas por Deus e afixar na gruta.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E3",
-    "itemAntigo": "Pesquisar uma oração de agradecimento em livros de sua religião e anotá-la no livro de orações da Alcateia.",
-    "codigoNovo": "ESP-V-103",
-    "itemNovo": "Pesquisar uma oração de agradecimento em livros de sua religião e anotá-la no livro de orações da Alcateia.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E4",
-    "itemAntigo": "Fazer as orações da Alcateia em duas reuniões semanais.",
-    "codigoNovo": "ESP-V-104",
-    "itemNovo": "Fazer as orações da Alcateia em duas reuniões semanais.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E4",
-    "itemAntigo": "Fazer as orações da Alcateia em duas reuniões semanais.",
-    "codigoNovo": "ESP-V-001",
-    "itemNovo": "Realizar orações de agradecimento ou momento de reflexão nas atividades da alcateia.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E5",
-    "itemAntigo": "Representar artisticamente um símbolo de sua religião e apresentar à Alcateia, explicando o seu significado.",
-    "codigoNovo": "ESP-V-105",
-    "itemNovo": "Representar artisticamente um símbolo de sua religião e apresentar à Alcateia, explicando o seu significado.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E5",
-    "itemAntigo": "Representar artisticamente um símbolo de sua religião e apresentar à Alcateia, explicando o seu significado.",
-    "codigoNovo": "ESP-V-002",
-    "itemNovo": "Representar artisticamente um símbolo de sua religião e explicá-lo à alcateia.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E6",
-    "itemAntigo": "Perguntar para sua família sobre os deveres para com Deus.",
-    "codigoNovo": "ESP-V-106",
-    "itemNovo": "Perguntar para sua família sobre os deveres para com Deus.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "E7",
-    "itemAntigo": "Fazer uma lista com as religiões dos lobinhos.",
-    "codigoNovo": "PAZ-V-105",
-    "itemNovo": "Fazer uma lista com as religiões dos lobinhos.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "E8",
-    "itemAntigo": "Visitar um templo de outra religião e manter uma atitude de respeito.",
-    "codigoNovo": "PAZ-V-106",
-    "itemNovo": "Visitar um templo de outra religião e manter uma atitude de respeito.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "E8",
-    "itemAntigo": "Visitar um templo de outra religião e manter uma atitude de respeito.",
-    "codigoNovo": "PAZ-V-002",
-    "itemNovo": "Visitar um templo de uma religião diferente da sua e expressar suas impressões por meio de desenho ou depoimento.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "E9",
-    "itemAntigo": "Participar de uma roda da Alcateia em que todos agradecem pelo que têm e pela ajuda recebida.",
-    "codigoNovo": "COM-V-101",
-    "itemNovo": "Participar de uma roda da Alcateia em que todos agradecem pelo que têm e pela ajuda recebida.",
-    "bloco": "Comunidade"
-  },
-  {
-    "codigoAntigo": "E9",
-    "itemAntigo": "Participar de uma roda da Alcateia em que todos agradecem pelo que têm e pela ajuda recebida.",
-    "codigoNovo": "ESP-V-005",
-    "itemNovo": "Participar de uma atividade que expresse gratidão sobre coisas da vida e da natureza.",
-    "bloco": "Espiritualidade"
-  },
-  {
-    "codigoAntigo": "F1",
-    "itemAntigo": "Conhecer e praticar os cuidados básicos de higiene.",
-    "codigoNovo": "HAB-V-101",
-    "itemNovo": "Conhecer e praticar os cuidados básicos de higiene.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F1",
-    "itemAntigo": "Conhecer e praticar os cuidados básicos de higiene.",
-    "codigoNovo": "HAB-V-004",
-    "itemNovo": "Cuidar da limpeza do corpo, manter boa rotina de sono, alimentação, brincadeiras e estudos.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F10",
-    "itemAntigo": "Participar de duas excursões ao ar livre com a Alcateia.",
-    "codigoNovo": "ARL-V-101",
-    "itemNovo": "Participar de duas excursões ao ar livre com a Alcateia.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "F10",
-    "itemAntigo": "Participar de duas excursões ao ar livre com a Alcateia.",
-    "codigoNovo": "ARL-V-002",
-    "itemNovo": "Participar de caçadas ao ar livre com a alcateia.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "F11",
-    "itemAntigo": "Escolher um esporte, aprender algumas coisas sobre ele e praticá-lo.",
-    "codigoNovo": "HAB-V-108",
-    "itemNovo": "Escolher um esporte, aprender algumas coisas sobre ele e praticá-lo.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F11",
-    "itemAntigo": "Escolher um esporte, aprender algumas coisas sobre ele e praticá-lo.",
-    "codigoNovo": "HAB-V-003",
-    "itemNovo": "Escolher um esporte, aprender sobre ele e praticá-lo.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F12",
-    "itemAntigo": "Desenhar uma silhueta humana com os principais órgãos e sistemas e explicar o seu funcionamento.",
-    "codigoNovo": "COR-V-103",
-    "itemNovo": "Desenhar uma silhueta humana com os principais órgãos e sistemas e explicar o seu funcionamento.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F13",
-    "itemAntigo": "Conhecer os sinais das doenças mais comuns da infância.",
-    "codigoNovo": "COR-V-104",
-    "itemNovo": "Conhecer os sinais das doenças mais comuns da infância.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F14",
-    "itemAntigo": "Saber utilizar um termômetro, ter cuidados com a exposição ao sol/friagem e conhecer e respeitar os limites de seu corpo.",
-    "codigoNovo": "COR-V-105",
-    "itemNovo": "Saber utilizar um termômetro, ter cuidados com a exposição ao sol/friagem e conhecer e respeitar os limites de seu corpo.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F14",
-    "itemAntigo": "Saber utilizar um termômetro, ter cuidados com a exposição ao sol/friagem e conhecer e respeitar os limites de seu corpo.",
-    "codigoNovo": "COR-F-003",
-    "itemNovo": "Saber usar um termômetro.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F14",
-    "itemAntigo": "Saber utilizar um termômetro, ter cuidados com a exposição ao sol/friagem e conhecer e respeitar os limites de seu corpo.",
-    "codigoNovo": "COR-V-001",
-    "itemNovo": "Em atividades da alcateia, mostrar que conhece os limites do próprio corpo e dos demais.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F14",
-    "itemAntigo": "Saber utilizar um termômetro, ter cuidados com a exposição ao sol/friagem e conhecer e respeitar os limites de seu corpo.",
-    "codigoNovo": "COR-V-003",
-    "itemNovo": "Proteger-se do calor e do frio nas atividades da alcateia, utilizando boné, protetor solar e hidratação.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F15",
-    "itemAntigo": "Fazer um diário das atividades da semana e analisar o uso do tempo.",
-    "codigoNovo": "SMA-V-103",
-    "itemNovo": "Fazer um diário das atividades da semana e analisar o uso do tempo.",
-    "bloco": "Saúde Mental"
-  },
-  {
-    "codigoAntigo": "f15",
-    "itemAntigo": "Fazer um diário das atividades da semana e analisar o uso do tempo.",
-    "codigoNovo": "SMA-V-006",
-    "itemNovo": "Identificar suas atividades favoritas e separar um tempo para praticá-las.",
-    "bloco": "Saúde Mental"
-  },
-  {
-    "codigoAntigo": "F16",
-    "itemAntigo": "Cuidar da limpeza do corpo; dormir, comer e brincar nas horas certas.",
-    "codigoNovo": "SMA-V-104",
-    "itemNovo": "Cuidar da limpeza do corpo; dormir, comer e brincar nas horas certas.",
-    "bloco": "Saúde Mental"
-  },
-  {
-    "codigoAntigo": "F16",
-    "itemAntigo": "Cuidar da limpeza do corpo; dormir, comer e brincar nas horas certas.",
-    "codigoNovo": "HAB-V-004",
-    "itemNovo": "Cuidar da limpeza do corpo, manter boa rotina de sono, alimentação, brincadeiras e estudos.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F17",
-    "itemAntigo": "Percorrer uma pista de obstáculos preparada por um Velho Lobo.",
-    "codigoNovo": "COR-V-106",
-    "itemNovo": "Percorrer uma pista de obstáculos preparada por um Velho Lobo.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F17",
-    "itemAntigo": "Percorrer uma pista de obstáculos preparada por um Velho Lobo.",
-    "codigoNovo": "ARL-V-001",
-    "itemNovo": "Percorrer uma pista de obstáculos em uma atividade da alcateia.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "F18",
-    "itemAntigo": "Passar em uma Falsa Baiana ou subir em uma árvore ou virar cambalhota / estrela.",
-    "codigoNovo": "COR-V-107",
-    "itemNovo": "Passar em uma Falsa Baiana ou subir em uma árvore ou virar cambalhota / estrela.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F18",
-    "itemAntigo": "Passar em uma Falsa Baiana ou subir em uma árvore ou virar cambalhota / estrela.",
-    "codigoNovo": "COR-V-004",
-    "itemNovo": "Realizar atividades físicas desafiadoras como falsa baiana, subir em árvore, cambalhota ou estrela.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F19",
-    "itemAntigo": "Praticar um esporte com regularidade.",
-    "codigoNovo": "COR-V-108",
-    "itemNovo": "Praticar um esporte com regularidade.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F19",
-    "itemAntigo": "Praticar um esporte com regularidade.",
-    "codigoNovo": "HAB-V-003",
-    "itemNovo": "Escolher um esporte, aprender sobre ele e praticá-lo.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F2",
-    "itemAntigo": "Saber vestir-se, manter-se arrumado e usar corretamente o uniforme.",
-    "codigoNovo": "HAB-V-102",
-    "itemNovo": "Saber vestir-se, manter-se arrumado e usar corretamente o uniforme.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F2",
-    "itemAntigo": "Saber vestir-se, manter-se arrumado e usar corretamente o uniforme.",
-    "codigoNovo": "HAB-V-001",
-    "itemNovo": "Utilizar o vestuário ou uniforme de lobinho adequadamente.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F20",
-    "itemAntigo": "Participar de dois acampamentos ou acantonamentos, de duas excursões e de uma caminhada de 1 km a 3 km.",
-    "codigoNovo": "ARL-V-102",
-    "itemNovo": "Participar de dois acampamentos ou acantonamentos, de duas excursões e de uma caminhada de 1 km a 3 km.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "F20",
-    "itemAntigo": "Participar de dois acampamentos ou acantonamentos, de duas excursões e de uma caminhada de 1 km a 3 km.",
-    "codigoNovo": "ARL-F-005",
-    "itemNovo": "Participar de pelo menos dois acampamentos ou acantonamentos com a alcateia.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "F20",
-    "itemAntigo": "Participar de dois acampamentos ou acantonamentos, de duas excursões e de uma caminhada de 1 km a 3 km.",
-    "codigoNovo": "HAB-F-003",
-    "itemNovo": "Participar de pelo menos uma caminhada ao ar livre com a alcateia, registrando três observações sobre o local durante o percurso.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F21",
-    "itemAntigo": "Saber aplicar ataduras e tipóias.",
-    "codigoNovo": "COR-V-109",
-    "itemNovo": "Saber aplicar ataduras e tipóias.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F21",
-    "itemAntigo": "Saber aplicar ataduras e tipóias.",
-    "codigoNovo": "COR-F-002",
-    "itemNovo": "Saber utilizar ataduras e tipoias.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F22",
-    "itemAntigo": "Identificar as situações que oferecem perigo nas atividades escoteiras e apontar os cuidados.",
-    "codigoNovo": "COR-V-110",
-    "itemNovo": "Identificar as situações que oferecem perigo nas atividades escoteiras e apontar os cuidados.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F22",
-    "itemAntigo": "Identificar as situações que oferecem perigo nas atividades escoteiras e apontar os cuidados.",
-    "codigoNovo": "COR-F-004",
-    "itemNovo": "Cuidar de sua segurança e dos demais nas atividades da alcateia, seguindo as orientações dos Velhos Lobos.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F23",
-    "itemAntigo": "Conhecer a pirâmide alimentar e os grupos alimentares.",
-    "codigoNovo": "HAB-V-109",
-    "itemNovo": "Conhecer a pirâmide alimentar e os grupos alimentares.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F24",
-    "itemAntigo": "Preparar uma refeição simples e saudável em atividade da Alcateia.",
-    "codigoNovo": "HAB-V-110",
-    "itemNovo": "Preparar uma refeição simples e saudável em atividade da Alcateia.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F24",
-    "itemAntigo": "Preparar uma refeição simples e saudável em atividade da Alcateia.",
-    "codigoNovo": "HAB-F-001",
-    "itemNovo": "Auxiliar na preparação de uma refeição saudável em um acampamento ou acantonamento da alcateia.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F3",
-    "itemAntigo": "Arrumar cama, mochila escolar, mochila de acampamento e ajudar na organização dos locais utilizados.",
-    "codigoNovo": "HAB-V-103",
-    "itemNovo": "Arrumar cama, mochila escolar, mochila de acampamento e ajudar na organização dos locais utilizados.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F3",
-    "itemAntigo": "Arrumar cama, mochila escolar, mochila de acampamento e ajudar na organização dos locais utilizados.",
-    "codigoNovo": "HAB-V-005",
-    "itemNovo": "Manter seu quarto e pertences em ordem.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F4",
-    "itemAntigo": "Demonstrar que conhece e pratica as regras de circulação de pedestres ou ciclistas e os principais sinais de trânsito.",
-    "codigoNovo": "HAB-V-104",
-    "itemNovo": "Demonstrar que conhece e pratica as regras de circulação de pedestres ou ciclistas e os principais sinais de trânsito.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F5",
-    "itemAntigo": "Conhecer cuidados para prevenção de acidentes domésticos.",
-    "codigoNovo": "HAB-V-105",
-    "itemNovo": "Conhecer cuidados para prevenção de acidentes domésticos.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F5",
-    "itemAntigo": "Conhecer cuidados para prevenção de acidentes domésticos.",
-    "codigoNovo": "AUT-V-005",
-    "itemNovo": "Identificar riscos domésticos e realizar ação para prevenir acidentes.",
-    "bloco": "Autonomia e Liderança"
-  },
-  {
-    "codigoAntigo": "F6",
-    "itemAntigo": "Saber os primeiros socorros em cortes, queimaduras e outros pequenos ferimentos.",
-    "codigoNovo": "HAB-V-106",
-    "itemNovo": "Saber os primeiros socorros em cortes, queimaduras e outros pequenos ferimentos.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F6",
-    "itemAntigo": "Saber os primeiros socorros em cortes, queimaduras e outros pequenos ferimentos.",
-    "codigoNovo": "COR-F-001",
-    "itemNovo": "Saber realizar os primeiros socorros em cortes, queimaduras e outros pequenos ferimentos.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F7",
-    "itemAntigo": "Fazer as três principais refeições do dia em horários adequados.",
-    "codigoNovo": "COR-V-101",
-    "itemNovo": "Fazer as três principais refeições do dia em horários adequados.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F7",
-    "itemAntigo": "Fazer as três principais refeições do dia em horários adequados.",
-    "codigoNovo": "HAB-V-006",
-    "itemNovo": "Fazer refeições saudáveis nos horários estabelecidos pela família.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F8",
-    "itemAntigo": "Conhecer a importância de uma boa alimentação.",
-    "codigoNovo": "COR-V-102",
-    "itemNovo": "Conhecer a importância de uma boa alimentação.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "F8",
-    "itemAntigo": "Conhecer a importância de uma boa alimentação.",
-    "codigoNovo": "HAB-V-002",
-    "itemNovo": "Participar de atividades que demonstrem a importância de uma boa alimentação para a saúde.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F9",
-    "itemAntigo": "Conhecer Bagheera e compreender porque ensina vida saudável.",
-    "codigoNovo": "HAB-V-107",
-    "itemNovo": "Conhecer Bagheera e compreender porque ensina vida saudável.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "F9",
-    "itemAntigo": "Conhecer Bagheera e compreender porque ensina vida saudável.",
-    "codigoNovo": "HAB-V-007",
-    "itemNovo": "Conhecer Bagheera e entender como ela ensina a viver de forma saudável.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "I1",
-    "itemAntigo": "Conhecer material individual para acampamento e arrumar mochila.",
-    "codigoNovo": "APR-V-101",
-    "itemNovo": "Conhecer material individual para acampamento e arrumar mochila.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I1",
-    "itemAntigo": "Conhecer material individual para acampamento e arrumar mochila.",
-    "codigoNovo": "AUT-F-001",
-    "itemNovo": "Organizar os materiais individuais e arrumar sua mochila para um acampamento de alcateia.",
-    "bloco": "Autonomia e Liderança"
-  },
-  {
-    "codigoAntigo": "I10",
-    "itemAntigo": "Participar da criação e apresentação de um esquete em uma Flor Vermelha.",
-    "codigoNovo": "CRI-V-101",
-    "itemNovo": "Participar da criação e apresentação de um esquete em uma Flor Vermelha.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "I10",
-    "itemAntigo": "Participar da criação e apresentação de um esquete em uma Flor Vermelha.",
-    "codigoNovo": "CRI-V-003",
-    "itemNovo": "Criar e apresentar com sua matilha uma esquete em uma Flor Vermelha.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "I11",
-    "itemAntigo": "Fazer uma pintura, modelagem, colagem ou outro trabalho em arte visual.",
-    "codigoNovo": "CRI-V-102",
-    "itemNovo": "Fazer uma pintura, modelagem, colagem ou outro trabalho em arte visual.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "I12",
-    "itemAntigo": "Saber cantar três canções típicas da Alcateia e participar de uma dança da Jângal.",
-    "codigoNovo": "CRI-V-103",
-    "itemNovo": "Saber cantar três canções típicas da Alcateia e participar de uma dança da Jângal.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "I12",
-    "itemAntigo": "Saber cantar três canções típicas da Alcateia e participar de uma dança da Jângal.",
-    "codigoNovo": "IEM-V-003",
-    "itemNovo": "Cantar canções com a alcateia e participar de uma dança da Jângal.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "I13",
-    "itemAntigo": "Acender uma fogueira simples e saber apagá-la.",
-    "codigoNovo": "ARL-V-104",
-    "itemNovo": "Acender uma fogueira simples e saber apagá-la.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "I13",
-    "itemAntigo": "Acender uma fogueira simples e saber apagá-la.",
-    "codigoNovo": "ARL-F-003",
-    "itemNovo": "Acender uma pequena fogueira demonstrando técnicas de segurança.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "I14",
-    "itemAntigo": "Conhecer a Rosa dos Ventos e o Cruzeiro do Sul.",
-    "codigoNovo": "ARL-V-105",
-    "itemNovo": "Conhecer a Rosa dos Ventos e o Cruzeiro do Sul.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "I14",
-    "itemAntigo": "Conhecer a Rosa dos Ventos e o Cruzeiro do Sul.",
-    "codigoNovo": "ARL-F-004",
-    "itemNovo": "Conhecer a Rosa dos Ventos e a constelação do Cruzeiro do Sul, usando-os para sua orientação.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "I15",
-    "itemAntigo": "Fazer um diário relatando as atividades que fez durante cada dia de uma semana e analisar como tem utilizado o seu tempo.",
-    "codigoNovo": "AUT-V-101",
-    "itemNovo": "Fazer um diário relatando as atividades que fez durante cada dia de uma semana e analisar como tem utilizado o seu tempo.",
-    "bloco": "Autonomia e Liderança"
-  },
-  {
-    "codigoAntigo": "I15",
-    "itemAntigo": "Fazer uma compra e prestar contas do pagamento.",
-    "codigoNovo": "AUT-V-002",
-    "itemNovo": "Fazer uma compra e prestar contas do pagamento.",
-    "bloco": "Autonomia e Liderança"
-  },
-  {
-    "codigoAntigo": "I16",
-    "itemAntigo": "Fazer os nós de escota, escota alceado, volta do fiel, saber para que servem e aplicá-los numa atividade.",
-    "codigoNovo": "AUT-V-102",
-    "itemNovo": "Fazer os nós de escota, escota alceado, volta do fiel, saber para que servem e aplicá-los numa atividade.",
-    "bloco": "Autonomia e Liderança"
-  },
-  {
-    "codigoAntigo": "I16",
-    "itemAntigo": "Fazer os nós de escota, escota alceado, volta do fiel, saber para que servem e aplicá-los.",
-    "codigoNovo": "ARL-F-001",
-    "itemNovo": "Aplicar os seguintes nós: direito, escota alceado, aselha, de correr e volta do fiel, sabendo suas funções.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "I17",
-    "itemAntigo": "Dar corretamente um recado da Alcatéia para seus pais ou vice- versa.",
-    "codigoNovo": "IEM-V-107",
-    "itemNovo": "Dar corretamente um recado da Alcatéia para seus pais ou vice- versa.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "I18",
-    "itemAntigo": "Ensinar um jogo para os (as) lobinhos (as).",
-    "codigoNovo": "IEM-V-108",
-    "itemNovo": "Ensinar um jogo para os (as) lobinhos (as).",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "I18",
-    "itemAntigo": "Ensinar um jogo para os (as) lobinhos (as).",
-    "codigoNovo": "CRI-V-007",
-    "itemNovo": "Ensinar um jogo para outros lobinhos.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "I19",
-    "itemAntigo": "Escrever uma carta para um Velho Lobo e colocá-la no correio ou passar um telegrama ou mandar uma mensagem por e-mail.",
-    "codigoNovo": "IEM-V-109",
-    "itemNovo": "Escrever uma carta para um Velho Lobo e colocá-la no correio ou passar um telegrama ou mandar uma mensagem por e-mail.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "I19",
-    "itemAntigo": "Escrever uma carta para um Velho Lobo e colocá-la no correio ou passar um telegrama ou mandar uma mensagem por e-mail.",
-    "codigoNovo": "APR-V-006",
-    "itemNovo": "Com a ajuda dos responsáveis, escrever uma carta para um Velho Lobo e enviá-la pelo correio ou por e-mail.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I2",
-    "itemAntigo": "Aprender cinco frases úteis em outro idioma.",
-    "codigoNovo": "APR-V-102",
-    "itemNovo": "Aprender cinco frases úteis em outro idioma.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I2",
-    "itemAntigo": "Aprender cinco frases úteis em outro idioma.",
-    "codigoNovo": "APR-V-001",
-    "itemNovo": "Escolher um novo idioma e aprender cinco frases úteis.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I20",
-    "itemAntigo": "Demonstrar para a Alcatéia um conhecimento ou uma habilidade que possui.",
-    "codigoNovo": "IEM-V-110",
-    "itemNovo": "Demonstrar para a Alcatéia um conhecimento ou uma habilidade que possui.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "I20",
-    "itemAntigo": "Demonstrar para a Alcatéia um conhecimento ou uma habilidade que possui.",
-    "codigoNovo": "APR-V-004",
-    "itemNovo": "Demonstrar para a alcateia um conhecimento ou habilidade que possui.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I21",
-    "itemAntigo": "Avaliar uma atividade de que tenha participado, identificando os pontos positivos e negativos e fazer sugestões de melhoria.",
-    "codigoNovo": "IEM-V-111",
-    "itemNovo": "Avaliar uma atividade de que tenha participado, identificando os pontos positivos e negativos e fazer sugestões de melhoria.",
-    "bloco": "Inteligência Emocional"
-  },
-  {
-    "codigoAntigo": "I21",
-    "itemAntigo": "Avaliar uma atividade de que tenha participado, identificando os pontos positivos e negativos e fazer sugestões de melhoria.",
-    "codigoNovo": "AUT-V-001",
-    "itemNovo": "Avaliar as atividades das quais participou, identificando pontos positivos e negativos e sugerindo melhorias.",
-    "bloco": "Autonomia e Liderança"
-  },
-  {
-    "codigoAntigo": "I22",
-    "itemAntigo": "Ler ou ouvir um dos episódios do Livro da Selva: \"O aguilhão do rei\" (...) e expressar suas conclusões.",
-    "codigoNovo": "APR-V-109",
-    "itemNovo": "Ler ou ouvir um dos episódios do Livro da Selva: \"O aguilhão do rei\" (...) e expressar suas conclusões.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I22",
-    "itemAntigo": "Ler ou ouvir um dos episódios do Livro da Selva: \"O aguilhão do rei\" (...) e expressar suas conclusões.",
-    "codigoNovo": "APR-V-005",
-    "itemNovo": "Ouvir a história \"O aguilhão do rei\" e contar suas conclusões.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I23",
-    "itemAntigo": "Conhecer os personagens da Jângal e suas características, relacionando suas qualidades com as das pessoas com as quais convive.",
-    "codigoNovo": "APR-V-110",
-    "itemNovo": "Conhecer os personagens da Jângal e suas características, relacionando suas qualidades com as das pessoas com as quais convive.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I24",
-    "itemAntigo": "Participar de uma roda de conversa e emitir sua opinião.",
-    "codigoNovo": "APR-V-111",
-    "itemNovo": "Participar de uma roda de conversa e emitir sua opinião.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I24",
-    "itemAntigo": "Participar de uma roda de conversa e emitir sua opinião.",
-    "codigoNovo": "DEM-V-003",
-    "itemNovo": "Participar de um debate com a alcateia sobre um tema de interesse dos lobinhos.",
-    "bloco": "Democracia"
-  },
-  {
-    "codigoAntigo": "I25",
-    "itemAntigo": "Possuir uma pequena biblioteca de livros infantis tendo lido a maioria deles.",
-    "codigoNovo": "APR-V-112",
-    "itemNovo": "Possuir uma pequena biblioteca de livros infantis tendo lido a maioria deles.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I25",
-    "itemAntigo": "Possuir uma pequena biblioteca de livros infantis tendo lido a maioria deles.",
-    "codigoNovo": "APR-V-003",
-    "itemNovo": "Conhecer uma biblioteca e pedir a recomendação de um livro.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I26",
-    "itemAntigo": "Conhecer e usar uma bússola e outras três novas ferramentas.",
-    "codigoNovo": "APR-V-113",
-    "itemNovo": "Conhecer e usar uma bússola e outras três novas ferramentas.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I27",
-    "itemAntigo": "Saber como usar os recursos da farmácia da Alcateia e os cuidados que deve ter com eles.",
-    "codigoNovo": "APR-V-114",
-    "itemNovo": "Saber como usar os recursos da farmácia da Alcateia e os cuidados que deve ter com eles.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I27",
-    "itemAntigo": "Saber como usar os recursos da farmácia da Alcateia e os cuidados que deve ter com eles.",
-    "codigoNovo": "COR-V-006",
-    "itemNovo": "Conhecer e saber utilizar os recursos da caixa de primeiros socorros da alcateia.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "I28",
-    "itemAntigo": "Descobrir o que as pessoas fazem em cinco profissões diferentes.",
-    "codigoNovo": "APR-V-115",
-    "itemNovo": "Descobrir o que as pessoas fazem em cinco profissões diferentes.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I29",
-    "itemAntigo": "Entrevistar alguém que tenha uma profissão de seu interesse.",
-    "codigoNovo": "APR-V-116",
-    "itemNovo": "Entrevistar alguém que tenha uma profissão de seu interesse.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I29",
-    "itemAntigo": "Entrevistar alguém que tenha uma profissão de seu interesse.",
-    "codigoNovo": "APR-V-007",
-    "itemNovo": "Apresentar à alcateia uma profissão de seu interesse, explicando os requisitos necessários para exercê-la.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I3",
-    "itemAntigo": "Acertar a maioria dos objetos num jogo do Kim.",
-    "codigoNovo": "APR-V-103",
-    "itemNovo": "Acertar a maioria dos objetos num jogo do Kim.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I3",
-    "itemAntigo": "Acertar a maioria dos objetos num jogo do Kim.",
-    "codigoNovo": "COR-V-005",
-    "itemNovo": "Durante o Jogo do Kim, acertar a maioria dos objetos usando os sentidos.",
-    "bloco": "Cuidado com o Corpo"
-  },
-  {
-    "codigoAntigo": "I4",
-    "itemAntigo": "Ler no Guia do Lobinho a história das Caçadas de Kaa.",
-    "codigoNovo": "APR-V-104",
-    "itemNovo": "Ler no Guia do Lobinho a história das Caçadas de Kaa.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I5",
-    "itemAntigo": "Contar resumidamente para a Alcateia um livro que tenha lido por recomendação de seus pais ou professores.",
-    "codigoNovo": "APR-V-105",
-    "itemNovo": "Contar resumidamente para a Alcateia um livro que tenha lido por recomendação de seus pais ou professores.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I5",
-    "itemAntigo": "Contar resumidamente para a Alcateia um livro que tenha lido por recomendação de seus pais ou professores.",
-    "codigoNovo": "APR-V-002",
-    "itemNovo": "Contar para a alcateia a história de um livro que tenha lido.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I6",
-    "itemAntigo": "Fazer os nós direito, direito alceado, aselha e de correr, sabendo para que servem e aplicá-los.",
-    "codigoNovo": "ARL-V-103",
-    "itemNovo": "Fazer os nós direito, direito alceado, aselha e de correr, sabendo para que servem e aplicá-los.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "I6",
-    "itemAntigo": "Fazer os nós direito, direito alceado, aselha e de correr, sabendo para que servem e aplicá-los.",
-    "codigoNovo": "ARL-F-001",
-    "itemNovo": "Aplicar os nós direito, escota alceado, aselha, de correr e volta do fiel.",
-    "bloco": "Vida ao Ar Livre"
-  },
-  {
-    "codigoAntigo": "I7",
-    "itemAntigo": "Encapar um livro.",
-    "codigoNovo": "APR-V-106",
-    "itemNovo": "Encapar um livro.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I7",
-    "itemAntigo": "Encapar um livro.",
-    "codigoNovo": "CRI-V-001",
-    "itemNovo": "Em uma atividade de trabalhos manuais, utilizar a técnica de embrulho de presente e encapar um livro para sua melhor conservação.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "I8",
-    "itemAntigo": "Embrulhar um presente.",
-    "codigoNovo": "APR-V-107",
-    "itemNovo": "Embrulhar um presente.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I8",
-    "itemAntigo": "Embrulhar um presente.",
-    "codigoNovo": "CRI-V-001",
-    "itemNovo": "Utilizar a técnica de embrulho de presente e encapar um livro.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "I9",
-    "itemAntigo": "Costurar um botão ou um distintivo em seu uniforme ou manta de Conselho.",
-    "codigoNovo": "APR-V-108",
-    "itemNovo": "Costurar um botão ou um distintivo em seu uniforme ou manta de Conselho.",
-    "bloco": "Aprendizagem Contínua"
-  },
-  {
-    "codigoAntigo": "I9",
-    "itemAntigo": "Costurar um botão ou um distintivo em seu uniforme ou manta de Conselho.",
-    "codigoNovo": "CRI-V-002",
-    "itemNovo": "Costurar um distintivo em seu uniforme ou vestuário escoteiro.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "S1",
-    "itemAntigo": "Saber como é organizada a Alcateia, conhecer as pessoas que dela fazem parte, saber fazer as formações e atender as vozes de comando dos Velhos Lobos.",
-    "codigoNovo": "VIN-V-114",
-    "itemNovo": "Saber como é organizada a Alcateia, conhecer as pessoas que dela fazem parte, saber fazer as formações e atender as vozes de comando dos Velhos Lobos.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S10",
-    "itemAntigo": "Conhecer os elementos que constituem a Bandeira Nacional e o seu simbolismo.",
-    "codigoNovo": "HER-V-101",
-    "itemNovo": "Conhecer os elementos que constituem a Bandeira Nacional e o seu simbolismo.",
-    "bloco": "Herança Cultural"
-  },
-  {
-    "codigoAntigo": "S11",
-    "itemAntigo": "Conhecer o Hino Nacional Brasileiro e cantá-lo.",
-    "codigoNovo": "HER-V-102",
-    "itemNovo": "Conhecer o Hino Nacional Brasileiro e cantá-lo.",
-    "bloco": "Herança Cultural"
-  },
-  {
-    "codigoAntigo": "S11",
-    "itemAntigo": "Conhecer o Hino Nacional Brasileiro e cantá-lo.",
-    "codigoNovo": "HER-V-002",
-    "itemNovo": "Aprender e cantar o Hino Nacional Brasileiro e conhecer os elementos e simbolismo da Bandeira Nacional.",
-    "bloco": "Herança Cultural"
-  },
-  {
-    "codigoAntigo": "S12",
-    "itemAntigo": "Participar de um desfile cívico.",
-    "codigoNovo": "HER-V-103",
-    "itemNovo": "Participar de um desfile cívico.",
-    "bloco": "Herança Cultural"
-  },
-  {
-    "codigoAntigo": "S13",
-    "itemAntigo": "Saber quais são as diversas Seções do seu Grupo Escoteiro e participar de atividade com alguma delas.",
-    "codigoNovo": "VIN-V-118",
-    "itemNovo": "Saber quais são as diversas Seções do seu Grupo Escoteiro e participar de atividade com alguma delas.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S13",
-    "itemAntigo": "Saber quais são as diversas Seções do seu Grupo Escoteiro e participar de atividade com alguma delas.",
-    "codigoNovo": "VIN-V-008",
-    "itemNovo": "Conhecer as seções do grupo escoteiro e participar de uma atividade com outra seção.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S14",
-    "itemAntigo": "Visitar outro Grupo Escoteiro e participar de atividade com a Alcateia.",
-    "codigoNovo": "VIN-V-119",
-    "itemNovo": "Visitar outro Grupo Escoteiro e participar de atividade com a Alcateia.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S14",
-    "itemAntigo": "Visitar outro Grupo Escoteiro e participar de atividade com a Alcateia.",
-    "codigoNovo": "PAZ-V-004",
-    "itemNovo": "Visitar outra UEL e refletir sobre o que é a Fraternidade Escoteira.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "S15",
-    "itemAntigo": "Participar de uma atividade distrital ou intergrupos do Ramo Lobinho.",
-    "codigoNovo": "VIN-V-120",
-    "itemNovo": "Participar de uma atividade distrital ou intergrupos do Ramo Lobinho.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S15",
-    "itemAntigo": "Participar de uma atividade distrital ou intergrupos do Ramo Lobinho.",
-    "codigoNovo": "VIN-V-009",
-    "itemNovo": "Participar de uma atividade entre diferentes UELs ou atividade regional do Ramo Lobinho.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S16",
-    "itemAntigo": "Ajudar a cuidar de uma planta ou de um animal de estimação em casa.",
-    "codigoNovo": "CON-V-101",
-    "itemNovo": "Ajudar a cuidar de uma planta ou de um animal de estimação em casa.",
-    "bloco": "Consumo Responsável"
-  },
-  {
-    "codigoAntigo": "S16",
-    "itemAntigo": "Ajudar a cuidar de uma planta ou de um animal de estimação em casa.",
-    "codigoNovo": "BIO-V-001",
-    "itemNovo": "Cuidar de uma planta ou de um animal de estimação em casa, demonstrando estes cuidados para a alcateia.",
-    "bloco": "Preservação da Biodiversidade"
-  },
-  {
-    "codigoAntigo": "S17",
-    "itemAntigo": "Selecionar e classificar materiais para coleta seletiva do lixo em sua casa.",
-    "codigoNovo": "CON-V-102",
-    "itemNovo": "Selecionar e classificar materiais para coleta seletiva do lixo em sua casa.",
-    "bloco": "Consumo Responsável"
-  },
-  {
-    "codigoAntigo": "S17",
-    "itemAntigo": "Selecionar e classificar materiais para coleta seletiva do lixo em sua casa.",
-    "codigoNovo": "CON-V-001",
-    "itemNovo": "Separar e classificar materiais para coleta seletiva do lixo em casa.",
-    "bloco": "Consumo Responsável"
-  },
-  {
-    "codigoAntigo": "S18",
-    "itemAntigo": "Fazer economia de água e de energia elétrica.",
-    "codigoNovo": "CON-V-103",
-    "itemNovo": "Fazer economia de água e de energia elétrica.",
-    "bloco": "Consumo Responsável"
-  },
-  {
-    "codigoAntigo": "S18",
-    "itemAntigo": "Fazer economia de água e de energia elétrica.",
-    "codigoNovo": "CLI-V-008",
-    "itemNovo": "Ser bem avaliado pelos pais e responsáveis sobre o consumo consciente de água e energia elétrica em casa.",
-    "bloco": "Mudanças Climáticas"
-  },
-  {
-    "codigoAntigo": "S19",
-    "itemAntigo": "Manter seu quarto e os seus pertences em ordem.",
-    "codigoNovo": "VAL-V-111",
-    "itemNovo": "Manter seu quarto e os seus pertences em ordem.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "S19",
-    "itemAntigo": "Manter seu quarto e os seus pertences em ordem.",
-    "codigoNovo": "HAB-V-005",
-    "itemNovo": "Manter seu quarto e pertences em ordem.",
-    "bloco": "Hábitos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S2",
-    "itemAntigo": "Ouvir o episódio \"Irmãos de Mowgli\" do Livro da Selva.",
-    "codigoNovo": "VIN-V-115",
-    "itemNovo": "Ouvir o episódio \"Irmãos de Mowgli\" do Livro da Selva.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S2",
-    "itemAntigo": "Ouvir o episódio \"Irmãos de Mowgli\" do Livro da Selva.",
-    "codigoNovo": "ACO-F-004",
-    "itemNovo": "Ouvir a história \"Irmãos de Mowgli\", de \"O Livro da Jângal\".",
-    "bloco": "Período de Acolhida"
-  },
-  {
-    "codigoAntigo": "S20",
-    "itemAntigo": "Desempenhar as tarefas de serviço que lhe couberem durante um acampamento e nas reuniões da Alcatéia.",
-    "codigoNovo": "VAL-V-112",
-    "itemNovo": "Desempenhar as tarefas de serviço que lhe couberem durante um acampamento e nas reuniões da Alcatéia.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "S21",
-    "itemAntigo": "Fazer com sua Matilha um cartaz ilustrado com os Direitos Universais da Criança (ONU – 1959).",
-    "codigoNovo": "DEM-V-105",
-    "itemNovo": "Fazer com sua Matilha um cartaz ilustrado com os Direitos Universais da Criança (ONU – 1959).",
-    "bloco": "Democracia"
-  },
-  {
-    "codigoAntigo": "S22",
-    "itemAntigo": "Pesquisar características da região onde mora.",
-    "codigoNovo": "BIO-V-101",
-    "itemNovo": "Pesquisar características da região onde mora.",
-    "bloco": "Preservação da Biodiversidade"
-  },
-  {
-    "codigoAntigo": "S22",
-    "itemAntigo": "Pesquisar características da região onde mora.",
-    "codigoNovo": "BIO-V-002",
-    "itemNovo": "Identificar as características da região onde mora.",
-    "bloco": "Preservação da Biodiversidade"
-  },
-  {
-    "codigoAntigo": "S23",
-    "itemAntigo": "Conhecer uma canção, uma dança e uma brincadeira folclórica do Brasil.",
-    "codigoNovo": "HER-V-104",
-    "itemNovo": "Conhecer uma canção, uma dança e uma brincadeira folclórica do Brasil.",
-    "bloco": "Herança Cultural"
-  },
-  {
-    "codigoAntigo": "S25",
-    "itemAntigo": "Ajudar na manutenção de um jardim ou de uma horta.",
-    "codigoNovo": "CLI-V-101",
-    "itemNovo": "Ajudar na manutenção de um jardim ou de uma horta.",
-    "bloco": "Mudanças Climáticas"
-  },
-  {
-    "codigoAntigo": "S25",
-    "itemAntigo": "Ajudar na manutenção de um jardim ou de uma horta.",
-    "codigoNovo": "CLI-V-002",
-    "itemNovo": "Cultivar uma horta sozinho ou com a alcateia.",
-    "bloco": "Mudanças Climáticas"
-  },
-  {
-    "codigoAntigo": "S26",
-    "itemAntigo": "Visitar zoológico, jardim botânico, horto etc.",
-    "codigoNovo": "BIO-V-102",
-    "itemNovo": "Visitar zoológico, jardim botânico, horto etc.",
-    "bloco": "Preservação da Biodiversidade"
-  },
-  {
-    "codigoAntigo": "S26",
-    "itemAntigo": "Visitar zoológico, jardim botânico, horto etc.",
-    "codigoNovo": "BIO-V-005",
-    "itemNovo": "Visitar zoológico, jardim botânico, abrigo de animais, horto etc.",
-    "bloco": "Preservação da Biodiversidade"
-  },
-  {
-    "codigoAntigo": "S27",
-    "itemAntigo": "Conhecer serviços públicos e meios de transporte próximos.",
-    "codigoNovo": "COM-V-104",
-    "itemNovo": "Conhecer serviços públicos e meios de transporte próximos.",
-    "bloco": "Comunidade"
-  },
-  {
-    "codigoAntigo": "S27",
-    "itemAntigo": "Conhecer serviços públicos e meios de transporte próximos.",
-    "codigoNovo": "AUT-V-003",
-    "itemNovo": "Conhecer meios de transporte e serviços próximos à sua casa.",
-    "bloco": "Autonomia e Liderança"
-  },
-  {
-    "codigoAntigo": "S28",
-    "itemAntigo": "Visitar um lugar público (museu, biblioteca, rádio, TV etc.).",
-    "codigoNovo": "COM-V-105",
-    "itemNovo": "Visitar um lugar público (museu, biblioteca, rádio, TV etc.).",
-    "bloco": "Comunidade"
-  },
-  {
-    "codigoAntigo": "S28",
-    "itemAntigo": "Visitar um lugar público (museu, biblioteca, rádio, TV etc.).",
-    "codigoNovo": "HER-V-005",
-    "itemNovo": "Visitar um museu histórico e contar o que mais chamou atenção.",
-    "bloco": "Herança Cultural"
-  },
-  {
-    "codigoAntigo": "S29",
-    "itemAntigo": "Conhecer a história de Kotick, a foca branca.",
-    "codigoNovo": "PAZ-V-109",
-    "itemNovo": "Conhecer a história de Kotick, a foca branca.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "S3",
-    "itemAntigo": "Usar o Lema do Lobinho, a Saudação, o Aperto de Mão e participar do Grande Uivo, compreendendo seus significados.",
-    "codigoNovo": "VIN-V-116",
-    "itemNovo": "Usar o Lema do Lobinho, a Saudação, o Aperto de Mão e participar do Grande Uivo, compreendendo seus significados.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S30",
-    "itemAntigo": "Ler ou ouvir a história resumida da vida de Robert Baden-Powell e da criação do Movimento Escoteiro.",
-    "codigoNovo": "PAZ-V-110",
-    "itemNovo": "Ler ou ouvir a história resumida da vida de Robert Baden-Powell e da criação do Movimento Escoteiro.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "S31",
-    "itemAntigo": "Participar de atividade distrital ou regional do Ramo Lobinho ou JOTA/JOTI.",
-    "codigoNovo": "PAZ-V-111",
-    "itemNovo": "Participar de atividade distrital ou regional do Ramo Lobinho ou JOTA/JOTI.",
-    "bloco": "Promoção da Paz"
-  },
-  {
-    "codigoAntigo": "S31",
-    "itemAntigo": "Participar de atividade distrital ou regional do Ramo Lobinho ou JOTA/JOTI.",
-    "codigoNovo": "VIN-V-009",
-    "itemNovo": "Participar de uma atividade entre diferentes UELs ou atividade regional do Ramo Lobinho.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S32",
-    "itemAntigo": "Divulgar o seu Grupo Escoteiro na escola por meio de cartazes, depoimentos, vídeos, folders.",
-    "codigoNovo": "CRI-V-004",
-    "itemNovo": "Divulgar sua UEL na escola por meio de cartazes, depoimentos, vídeos e folders.",
-    "bloco": "Criatividade e Inovação"
-  },
-  {
-    "codigoAntigo": "S4",
-    "itemAntigo": "Conhecer o uniforme/traje escoteiro e os primeiros distintivos.",
-    "codigoNovo": "VIN-V-117",
-    "itemNovo": "Conhecer o uniforme/traje escoteiro e os primeiros distintivos.",
-    "bloco": "Vínculos Saudáveis"
-  },
-  {
-    "codigoAntigo": "S4",
-    "itemAntigo": "Conhecer o uniforme/traje escoteiro e os primeiros distintivos.",
-    "codigoNovo": "ACO-F-006",
-    "itemNovo": "Saber como conquistar os distintivos do Ramo Lobinho e conhecer o uniforme ou vestuário escoteiro.",
-    "bloco": "Período de Acolhida"
-  },
-  {
-    "codigoAntigo": "S5",
-    "itemAntigo": "Ouvir o episódio 'Flor Vermelha' - 2ª parte de 'Irmãos de Mowgli'",
-    "codigoNovo": "DEM-V-101",
-    "itemNovo": "Ouvir o episódio 'Flor Vermelha' - 2ª parte de 'Irmãos de Mowgli'",
-    "bloco": "Democracia"
-  },
-  {
-    "codigoAntigo": "S6",
-    "itemAntigo": "Contar quais são as principais regras da escola, casa e Alcateia.",
-    "codigoNovo": "DEM-V-102",
-    "itemNovo": "Contar quais são as principais regras da escola, casa e Alcateia.",
-    "bloco": "Democracia"
-  },
-  {
-    "codigoAntigo": "S6",
-    "itemAntigo": "Contar quais são as principais regras da escola, casa e Alcateia.",
-    "codigoNovo": "VAL-V-007",
-    "itemNovo": "Discutir com um Velho Lobo as principais regras dos locais onde convive.",
-    "bloco": "Valores"
-  },
-  {
-    "codigoAntigo": "S7",
-    "itemAntigo": "Participar da eleição do Primo e do Segundo de sua Matilha.",
-    "codigoNovo": "DEM-F-003",
-    "itemNovo": "Participar da eleição de primo e segundo da matilha e combinar suas responsabilidades.",
-    "bloco": "Democracia"
-  },
-  {
-    "codigoAntigo": "S8",
-    "itemAntigo": "Participar ativamente de um Jogo Democrático e de uma Roca do Conselho.",
-    "codigoNovo": "DEM-V-104",
-    "itemNovo": "Participar ativamente de um Jogo Democrático e de uma Roca do Conselho.",
-    "bloco": "Democracia"
-  },
-  {
-    "codigoAntigo": "S8",
-    "itemAntigo": "Participar ativamente de um Jogo Democrático e de uma Roca do Conselho.",
-    "codigoNovo": "DEM-F-001",
-    "itemNovo": "Participar ativamente de uma Roca de Conselho, expressando opiniões de forma respeitosa.",
-    "bloco": "Democracia"
-  },
-  {
-    "codigoAntigo": "S8",
-    "itemAntigo": "Participar ativamente de um Jogo Democrático e de uma Roca do Conselho.",
-    "codigoNovo": "DEM-V-004",
-    "itemNovo": "Participar de um jogo democrático com a alcateia.",
-    "bloco": "Democracia"
-  },
-  {
-    "codigoAntigo": "S9",
-    "itemAntigo": "Ter uma lista com telefones úteis e serviços de emergência.",
-    "codigoNovo": "COM-V-103",
-    "itemNovo": "Ter uma lista com telefones úteis e serviços de emergência.",
-    "bloco": "Comunidade"
-  },
-  {
-    "codigoAntigo": "S9",
-    "itemAntigo": "Ter uma lista com telefones úteis e serviços de emergência.",
-    "codigoNovo": "COM-F-002",
-    "itemNovo": "Conhecer os hospitais próximos à sua casa e os contatos de emergência.",
-    "bloco": "Comunidade"
-  }
-]
+{
+  "Equivalência Itens": [
+    {
+      "Código antigo": "S2",
+      "Item Antigo": "Ouvir o episódio \"Irmãos de Mowgli\" do Livro da Selva.",
+      "Código novo": "ACO-F-004",
+      "Item Novo": "Ouvir a história \"Irmãos de Mowgli\", de \"O Livro da Jângal\".",
+      "Bloco": "Período de Acolhida",
+      "Palavra chave": "Irmãos de Mowgli - ACO"
+    },
+    {
+      "Código antigo": "S4",
+      "Item Antigo": "Conhecer o uniforme/traje escoteiro e os primeiros distintivos.",
+      "Código novo": "ACO-F-006",
+      "Item Novo": "Saber como conquistar os distintivos do Ramo Lobinho e conhecer o uniforme ou vestuário escoteiro.",
+      "Bloco": "Período de Acolhida",
+      "Palavra chave": "Distintivos ramo"
+    },
+    {
+      "Código antigo": "I2",
+      "Item Antigo": "Aprender cinco frases úteis em outro idioma.",
+      "Código novo": "APR-V-001",
+      "Item Novo": "Escolher um novo idioma e aprender cinco frases úteis.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Novo idioma"
+    },
+    {
+      "Código antigo": "I5",
+      "Item Antigo": "Contar resumidamente para a Alcateia um livro que tenha lido por recomendação de seus pais ou professores.",
+      "Código novo": "APR-V-002",
+      "Item Novo": "Contar para a alcateia a história de um livro que tenha lido.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "História de livro"
+    },
+    {
+      "Código antigo": "I20",
+      "Item Antigo": "Demonstrar para a Alcatéia um conhecimento ou uma habilidade que possui.",
+      "Código novo": "APR-V-004",
+      "Item Novo": "Demonstrar para a alcateia um conhecimento ou habilidade que possui.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Demonstrar habilidade"
+    },
+    {
+      "Código antigo": "I22",
+      "Item Antigo": "Ler ou ouvir um dos episódios do Livro da Selva: \"O aguilhão do rei\" (...) e expressar suas conclusões.",
+      "Código novo": "APR-V-005",
+      "Item Novo": "Ouvir a história \"O aguilhão do rei\" e contar suas conclusões.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Aguilhão do rei - APR"
+    },
+    {
+      "Código antigo": "I19",
+      "Item Antigo": "Escrever uma carta para um Velho Lobo e colocá-la no correio ou passar um telegrama ou mandar uma mensagem por e-mail.",
+      "Código novo": "APR-V-006",
+      "Item Novo": "Com a ajuda dos responsáveis, escrever uma carta para um Velho Lobo e enviá-la pelo correio ou por e-mail.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Carta Velho Lobo"
+    },
+    {
+      "Código antigo": "I29",
+      "Item Antigo": "Entrevistar alguém que tenha uma profissão de seu interesse.",
+      "Código novo": "APR-V-007",
+      "Item Novo": "Apresentar à alcateia uma profissão de seu interesse, explicando os requisitos necessários para exercê-la.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Profissão interesse"
+    },
+    {
+      "Código antigo": "I1",
+      "Item Antigo": "Conhecer material individual para acampamento e arrumar mochila.",
+      "Código novo": "APR-V-101",
+      "Item Novo": "Conhecer material individual para acampamento e arrumar mochila.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Mochila acampamento"
+    },
+    {
+      "Código antigo": "I3",
+      "Item Antigo": "Acertar a maioria dos objetos num jogo do Kim.",
+      "Código novo": "APR-V-103",
+      "Item Novo": "Acertar a maioria dos objetos num jogo do Kim.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Jogo do Kim - APR"
+    },
+    {
+      "Código antigo": "I4",
+      "Item Antigo": "Ler no Guia do Lobinho a história das Caçadas de Kaa.",
+      "Código novo": "APR-V-104",
+      "Item Novo": "Ler no Guia do Lobinho a história das Caçadas de Kaa.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Caçadas de Kaa - APR"
+    },
+    {
+      "Código antigo": "I7",
+      "Item Antigo": "Encapar um livro.",
+      "Código novo": "APR-V-106",
+      "Item Novo": "Encapar um livro.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Conservar livro"
+    },
+    {
+      "Código antigo": "I8",
+      "Item Antigo": "Embrulhar um presente.",
+      "Código novo": "APR-V-107",
+      "Item Novo": "Embrulhar um presente.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Embrulho de presente"
+    },
+    {
+      "Código antigo": "I9",
+      "Item Antigo": "Costurar um botão ou um distintivo em seu uniforme ou manta de Conselho.",
+      "Código novo": "APR-V-108",
+      "Item Novo": "Costurar um botão ou um distintivo em seu uniforme ou manta de Conselho.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Costura básica"
+    },
+    {
+      "Código antigo": "I23",
+      "Item Antigo": "Conhecer os personagens da Jângal e suas características, relacionando suas qualidades com as das pessoas com as quais convive.",
+      "Código novo": "APR-V-110",
+      "Item Novo": "Conhecer os personagens da Jângal e suas características, relacionando suas qualidades com as das pessoas com as quais convive.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Figuras da Jângal"
+    },
+    {
+      "Código antigo": "I24",
+      "Item Antigo": "Participar de uma roda de conversa e emitir sua opinião.",
+      "Código novo": "APR-V-111",
+      "Item Novo": "Participar de uma roda de conversa e emitir sua opinião.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Lugar de fala"
+    },
+    {
+      "Código antigo": "I25",
+      "Item Antigo": "Possuir uma pequena biblioteca de livros infantis tendo lido a maioria deles.",
+      "Código novo": "APR-V-112",
+      "Item Novo": "Possuir uma pequena biblioteca de livros infantis tendo lido a maioria deles.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Hábito da leitura"
+    },
+    {
+      "Código antigo": "I26",
+      "Item Antigo": "Conhecer e usar uma bússola e outras três novas ferramentas.",
+      "Código novo": "APR-V-113",
+      "Item Novo": "Conhecer e usar uma bússola e outras três novas ferramentas.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Bússola e ferramentas"
+    },
+    {
+      "Código antigo": "I27",
+      "Item Antigo": "Saber como usar os recursos da farmácia da Alcateia e os cuidados que deve ter com eles.",
+      "Código novo": "APR-V-114",
+      "Item Novo": "Saber como usar os recursos da farmácia da Alcateia e os cuidados que deve ter com eles.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Farmácia da alcateia"
+    },
+    {
+      "Código antigo": "I28",
+      "Item Antigo": "Descobrir o que as pessoas fazem em cinco profissões diferentes.",
+      "Código novo": "APR-V-115",
+      "Item Novo": "Descobrir o que as pessoas fazem em cinco profissões diferentes.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Mapear profissões"
+    },
+    {
+      "Código antigo": "C5",
+      "Item Antigo": "Encarregar-se de um dos serviços da Alcateia durante um Ciclo de Programa e realizar bem essa tarefa.",
+      "Código novo": "APR-V-117",
+      "Item Novo": "Encarregar-se de um dos serviços da Alcateia durante um Ciclo de Programa e realizar bem essa tarefa.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Serviço do ciclo"
+    },
+    {
+      "Código antigo": "C6",
+      "Item Antigo": "Mostrar a um Velho Lobo os melhores trabalhos ou tarefas que realizou nos últimos seis meses.",
+      "Código novo": "APR-V-118",
+      "Item Novo": "Mostrar a um Velho Lobo os melhores trabalhos ou tarefas que realizou nos últimos seis meses.",
+      "Bloco": "Aprendizagem Contínua",
+      "Palavra chave": "Mostra de tarefas"
+    },
+    {
+      "Código antigo": "I13",
+      "Item Antigo": "Acender uma fogueira simples e saber apagá-la.",
+      "Código novo": "ARL-F-003",
+      "Item Novo": "Acender uma pequena fogueira para fazer uma bebida quente ou lanche, demonstrando as técnicas de segurança.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Acender fogueira"
+    },
+    {
+      "Código antigo": "I14",
+      "Item Antigo": "Conhecer a Rosa dos Ventos e o Cruzeiro do Sul.",
+      "Código novo": "ARL-F-004",
+      "Item Novo": "Conhecer a Rosa dos Ventos e a constelação do Cruzeiro do Sul, usando-os para sua orientação.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Rosa dos ventos"
+    },
+    {
+      "Código antigo": "F20",
+      "Item Antigo": "Participar de dois acampamentos ou acantonamentos, de duas excursões e de uma caminhada de 1 km a 3 km.",
+      "Código novo": "ARL-F-005",
+      "Item Novo": "Participar de pelo menos dois acampamentos ou acantonamentos com a alcateia.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Participar acampamentos"
+    },
+    {
+      "Código antigo": "F17",
+      "Item Antigo": "Percorrer uma pista de obstáculos preparada por um Velho Lobo.",
+      "Código novo": "ARL-V-001",
+      "Item Novo": "Percorrer uma pista de obstáculos em uma atividade da alcateia.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Pista obstáculos"
+    },
+    {
+      "Código antigo": "F10",
+      "Item Antigo": "Participar de duas excursões ao ar livre com a Alcateia.",
+      "Código novo": "ARL-V-002",
+      "Item Novo": "Participar de caçadas ao ar livre com a alcateia, seguindo as regras de etiqueta e segurança.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Caçada ao ar livre"
+    },
+    {
+      "Código antigo": "E1",
+      "Item Antigo": "Em um passeio com a Alcateia, observar as belas coisas da natureza e agradecer por existirem.",
+      "Código novo": "ARL-V-004",
+      "Item Novo": "Em uma caminhada com a alcateia, observar a natureza, identificar diferentes sons e agradecer por sua existência.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Observação natureza"
+    },
+    {
+      "Código antigo": "I6",
+      "Item Antigo": "Fazer os nós direito, direito alceado, aselha e de correr, sabendo para que servem e aplicá-los.",
+      "Código novo": "ARL-V-103",
+      "Item Novo": "Fazer os nós direito, direito alceado, aselha e de correr, sabendo para que servem e aplicá-los.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Amarras básicas"
+    },
+    {
+      "Código antigo": "I13",
+      "Item Antigo": "Acender uma fogueira simples e saber apagá-la.",
+      "Código novo": "ARL-V-104",
+      "Item Novo": "Acender uma fogueira simples e saber apagá-la.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Manejo do fogo"
+    },
+    {
+      "Código antigo": "I14",
+      "Item Antigo": "Conhecer a Rosa dos Ventos e o Cruzeiro do Sul.",
+      "Código novo": "ARL-V-105",
+      "Item Novo": "Conhecer a Rosa dos Ventos e o Cruzeiro do Sul.",
+      "Bloco": "Vida ao Ar Livre",
+      "Palavra chave": "Sinais do céu"
+    },
+    {
+      "Código antigo": "I1",
+      "Item Antigo": "Conhecer material individual para acampamento e arrumar mochila.",
+      "Código novo": "AUT-F-001",
+      "Item Novo": "Organizar os materiais individuais e arrumar sua mochila para um acampamento de alcateia.",
+      "Bloco": "Autonomia e Liderança",
+      "Palavra chave": "Organizar mochila"
+    },
+    {
+      "Código antigo": "I21",
+      "Item Antigo": "Avaliar uma atividade de que tenha participado, identificando os pontos positivos e negativos e fazer sugestões de melhoria.",
+      "Código novo": "AUT-V-001",
+      "Item Novo": "Avaliar as atividades das quais participou, identificando pontos positivos e negativos e sugerindo melhorias.",
+      "Bloco": "Autonomia e Liderança",
+      "Palavra chave": "Avaliar atividades"
+    },
+    {
+      "Código antigo": "I15",
+      "Item Antigo": "Fazer uma compra e prestar contas do pagamento.",
+      "Código novo": "AUT-V-002",
+      "Item Novo": "Fazer uma compra e prestar contas do pagamento.",
+      "Bloco": "Autonomia e Liderança",
+      "Palavra chave": "Fazer compra"
+    },
+    {
+      "Código antigo": "S27",
+      "Item Antigo": "Conhecer serviços públicos e meios de transporte próximos.",
+      "Código novo": "AUT-V-003",
+      "Item Novo": "Conhecer os meios de transporte, farmácias, correios, hospitais, supermercados, pontos de ônibus/estações de trem/metrô, igrejas e parques próximos à sua casa.",
+      "Bloco": "Autonomia e Liderança",
+      "Palavra chave": "Conhecer bairro"
+    },
+    {
+      "Código antigo": "F5",
+      "Item Antigo": "Conhecer cuidados para prevenção de acidentes domésticos.",
+      "Código novo": "AUT-V-005",
+      "Item Novo": "Identificar riscos domésticos (facas, fogo, eletricidade, gás, janelas etc.) e realizar uma ação para prevenir acidentes.",
+      "Bloco": "Autonomia e Liderança",
+      "Palavra chave": "Riscos domésticos"
+    },
+    {
+      "Código antigo": "I15",
+      "Item Antigo": "Fazer um diário relatando as atividades que fez durante cada dia de uma semana e analisar como tem utilizado o seu tempo.",
+      "Código novo": "AUT-V-101",
+      "Item Novo": "Fazer um diário relatando as atividades que fez durante cada dia de uma semana e analisar como tem utilizado o seu tempo.",
+      "Bloco": "Autonomia e Liderança",
+      "Palavra chave": "Rotina semanal"
+    },
+    {
+      "Código antigo": "I16",
+      "Item Antigo": "Fazer os nós de escota, escota alceado, volta do fiel, saber para que servem e aplicá-los numa atividade.",
+      "Código novo": "AUT-V-102",
+      "Item Novo": "Fazer os nós de escota, escota alceado, volta do fiel, saber para que servem e aplicá-los numa atividade.",
+      "Bloco": "Autonomia e Liderança",
+      "Palavra chave": "Nós de escota"
+    },
+    {
+      "Código antigo": "S16",
+      "Item Antigo": "Ajudar a cuidar de uma planta ou de um animal de estimação em casa.",
+      "Código novo": "BIO-V-001",
+      "Item Novo": "Cuidar de uma planta ou de um animal de estimação em casa, demonstrando estes cuidados para a alcateia.",
+      "Bloco": "Preservação da Biodiversidade",
+      "Palavra chave": "Cuidar planta animal"
+    },
+    {
+      "Código antigo": "S22",
+      "Item Antigo": "Pesquisar características da região onde mora.",
+      "Código novo": "BIO-V-002",
+      "Item Novo": "Em uma atividade ao ar livre com a alcateia, identificar as características da região onde mora.",
+      "Bloco": "Preservação da Biodiversidade",
+      "Palavra chave": "Características região"
+    },
+    {
+      "Código antigo": "S26",
+      "Item Antigo": "Visitar zoológico, jardim botânico, horto etc.",
+      "Código novo": "BIO-V-005",
+      "Item Novo": "Visitar um zoológico, jardim botânico, abrigo de animais, horto florestal, viveiro de plantas ou propriedade rural.",
+      "Bloco": "Preservação da Biodiversidade",
+      "Palavra chave": "Visita natureza"
+    },
+    {
+      "Código antigo": "S25",
+      "Item Antigo": "Ajudar na manutenção de um jardim ou de uma horta.",
+      "Código novo": "CLI-V-002",
+      "Item Novo": "Cultivar uma horta sozinho ou com a alcateia, promovendo o cuidado com a natureza.",
+      "Bloco": "Mudanças Climáticas",
+      "Palavra chave": "Cultivar horta"
+    },
+    {
+      "Código antigo": "S18",
+      "Item Antigo": "Fazer economia de água e de energia elétrica.",
+      "Código novo": "CLI-V-008",
+      "Item Novo": "Ser bem avaliado pelos pais e responsáveis sobre o consumo consciente de água e energia elétrica em casa.",
+      "Bloco": "Mudanças Climáticas",
+      "Palavra chave": "Consumo consciente"
+    },
+    {
+      "Código antigo": "S25",
+      "Item Antigo": "Ajudar na manutenção de um jardim ou de uma horta.",
+      "Código novo": "CLI-V-101",
+      "Item Novo": "Ajudar na manutenção de um jardim ou de uma horta.",
+      "Bloco": "Mudanças Climáticas",
+      "Palavra chave": "Zelo pela horta"
+    },
+    {
+      "Código antigo": "S9",
+      "Item Antigo": "Ter uma lista com telefones úteis e serviços de emergência.",
+      "Código novo": "COM-F-002",
+      "Item Novo": "Conhecer os hospitais próximos à sua casa e os contatos de emergência (Bombeiros, SAMU, Polícia).",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Contatos emergência"
+    },
+    {
+      "Código antigo": "A9",
+      "Item Antigo": "Participar com sua Alcateia ou Grupo Escoteiro de uma campanha de ajuda ao próximo, doando algo seu para a campanha.",
+      "Código novo": "COM-V-001",
+      "Item Novo": "Participar ativamente de uma campanha de ajuda ao próximo com sua alcateia ou grupo escoteiro.",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Campanha solidária"
+    },
+    {
+      "Código antigo": "A13",
+      "Item Antigo": "Visitar com sua Matilha um asilo / creche ou outra entidade de assistência e ajudar a fazer algo de que necessitam.",
+      "Código novo": "COM-V-002",
+      "Item Novo": "Visitar um lar de idosos, creche ou entidade assistencial, prestando apoio conforme necessidade.",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Visita assistencial - COM"
+    },
+    {
+      "Código antigo": "E10",
+      "Item Antigo": "Procurar uma forma de praticar uma boa ação em seu Grupo Escoteiro ou escola.",
+      "Código novo": "COM-V-003",
+      "Item Novo": "Identificar uma forma de praticar uma Boa Ação e realizá-la.",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Boa ação"
+    },
+    {
+      "Código antigo": "E9",
+      "Item Antigo": "Participar de uma roda da Alcateia em que todos agradecem pelo que têm e pela ajuda recebida.",
+      "Código novo": "COM-V-101",
+      "Item Novo": "Participar de uma roda da Alcateia em que todos agradecem pelo que têm e pela ajuda recebida.",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Roda de gratidão"
+    },
+    {
+      "Código antigo": "E10",
+      "Item Antigo": "Procurar uma forma de praticar uma boa ação em seu Grupo Escoteiro ou escola.",
+      "Código novo": "COM-V-102",
+      "Item Novo": "Procurar uma forma de praticar uma boa ação em seu Grupo Escoteiro ou escola.",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Boa ação escolar"
+    },
+    {
+      "Código antigo": "S9",
+      "Item Antigo": "Ter uma lista com telefones úteis e serviços de emergência.",
+      "Código novo": "COM-V-103",
+      "Item Novo": "Ter uma lista com telefones úteis e serviços de emergência.",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Contatos de emergência"
+    },
+    {
+      "Código antigo": "S27",
+      "Item Antigo": "Conhecer serviços públicos e meios de transporte próximos.",
+      "Código novo": "COM-V-104",
+      "Item Novo": "Conhecer serviços públicos e meios de transporte próximos.",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Rede de transporte"
+    },
+    {
+      "Código antigo": "S28",
+      "Item Antigo": "Visitar um lugar público (museu, biblioteca, rádio, TV etc.).",
+      "Código novo": "COM-V-105",
+      "Item Novo": "Visitar um lugar público (museu, biblioteca, rádio, TV etc.).",
+      "Bloco": "Comunidade",
+      "Palavra chave": "Espaço cultural"
+    },
+    {
+      "Código antigo": "S17",
+      "Item Antigo": "Selecionar e classificar materiais para coleta seletiva do lixo em sua casa.",
+      "Código novo": "CON-V-001",
+      "Item Novo": "Separar e classificar materiais para coleta seletiva do lixo em casa.",
+      "Bloco": "Consumo Responsável",
+      "Palavra chave": "Coleta seletiva"
+    },
+    {
+      "Código antigo": "S16",
+      "Item Antigo": "Ajudar a cuidar de uma planta ou de um animal de estimação em casa.",
+      "Código novo": "CON-V-101",
+      "Item Novo": "Ajudar a cuidar de uma planta ou de um animal de estimação em casa.",
+      "Bloco": "Consumo Responsável",
+      "Palavra chave": "Zelo doméstico"
+    },
+    {
+      "Código antigo": "S18",
+      "Item Antigo": "Fazer economia de água e de energia elétrica.",
+      "Código novo": "CON-V-103",
+      "Item Novo": "Fazer economia de água e de energia elétrica.",
+      "Bloco": "Consumo Responsável",
+      "Palavra chave": "Poupe doméstico"
+    },
+    {
+      "Código antigo": "F6",
+      "Item Antigo": "Saber os primeiros socorros em cortes, queimaduras e outros pequenos ferimentos.",
+      "Código novo": "COR-F-001",
+      "Item Novo": "Saber realizar os primeiros socorros em cortes, queimaduras e outros pequenos ferimentos.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Primeiros socorros"
+    },
+    {
+      "Código antigo": "F21",
+      "Item Antigo": "Saber aplicar ataduras e tipóias.",
+      "Código novo": "COR-F-002",
+      "Item Novo": "Saber utilizar ataduras e tipoias.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Ataduras e tipoias"
+    },
+    {
+      "Código antigo": "F14",
+      "Item Antigo": "Saber utilizar um termômetro, ter cuidados com a exposição ao sol/friagem e conhecer e respeitar os limites de seu corpo.",
+      "Código novo": "COR-F-003",
+      "Item Novo": "Saber usar um termômetro.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Usar termômetro"
+    },
+    {
+      "Código antigo": "F22",
+      "Item Antigo": "Identificar as situações que oferecem perigo nas atividades escoteiras e apontar os cuidados.",
+      "Código novo": "COR-F-004",
+      "Item Novo": "Cuidar de sua segurança e dos demais nas atividades da alcateia, seguindo as orientações dos Velhos Lobos.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Segurança atividades"
+    },
+    {
+      "Código antigo": "F14",
+      "Item Antigo": "Saber utilizar um termômetro, ter cuidados com a exposição ao sol/friagem e conhecer e respeitar os limites de seu corpo.",
+      "Código novo": "COR-V-001",
+      "Item Novo": "Em atividades da alcateia, mostrar que conhece os limites do próprio corpo e dos demais.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Limites do corpo"
+    },
+    {
+      "Código antigo": "F14",
+      "Item Antigo": "Saber utilizar um termômetro, ter cuidados com a exposição ao sol/friagem e conhecer e respeitar os limites de seu corpo.",
+      "Código novo": "COR-V-003",
+      "Item Novo": "Proteger-se do calor e do frio nas atividades da alcateia, utilizando boné, protetor solar e hidratação.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Proteção clima"
+    },
+    {
+      "Código antigo": "F18",
+      "Item Antigo": "Passar em uma Falsa Baiana ou subir em uma árvore ou virar cambalhota / estrela.",
+      "Código novo": "COR-V-004",
+      "Item Novo": "Realizar atividades físicas desafiadoras como falsa baiana, subir em árvore, cambalhota ou estrela.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Atividades desafiadoras"
+    },
+    {
+      "Código antigo": "I3",
+      "Item Antigo": "Acertar a maioria dos objetos num jogo do Kim.",
+      "Código novo": "COR-V-005",
+      "Item Novo": "Durante o Jogo do Kim, acertar a maioria dos objetos usando os sentidos.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Jogo do Kim - COR"
+    },
+    {
+      "Código antigo": "I27",
+      "Item Antigo": "Saber como usar os recursos da farmácia da Alcateia e os cuidados que deve ter com eles.",
+      "Código novo": "COR-V-006",
+      "Item Novo": "Conhecer e saber utilizar os recursos da caixa de primeiros socorros da alcateia.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Caixa primeiros socorros"
+    },
+    {
+      "Código antigo": "F7",
+      "Item Antigo": "Fazer as três principais refeições do dia em horários adequados.",
+      "Código novo": "COR-V-101",
+      "Item Novo": "Fazer as três principais refeições do dia em horários adequados.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Horário refeições"
+    },
+    {
+      "Código antigo": "F8",
+      "Item Antigo": "Conhecer a importância de uma boa alimentação.",
+      "Código novo": "COR-V-102",
+      "Item Novo": "Conhecer a importância de uma boa alimentação.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Importância alimentar"
+    },
+    {
+      "Código antigo": "F12",
+      "Item Antigo": "Desenhar uma silhueta humana com os principais órgãos e sistemas e explicar o seu funcionamento.",
+      "Código novo": "COR-V-103",
+      "Item Novo": "Desenhar uma silhueta humana com os principais órgãos e sistemas e explicar o seu funcionamento.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Silhueta do corpo"
+    },
+    {
+      "Código antigo": "F13",
+      "Item Antigo": "Conhecer os sinais das doenças mais comuns da infância.",
+      "Código novo": "COR-V-104",
+      "Item Novo": "Conhecer os sinais das doenças mais comuns da infância.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Doenças da infância"
+    },
+    {
+      "Código antigo": "F17",
+      "Item Antigo": "Percorrer uma pista de obstáculos preparada por um Velho Lobo.",
+      "Código novo": "COR-V-106",
+      "Item Novo": "Percorrer uma pista de obstáculos preparada por um Velho Lobo.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Pista de obstáculos"
+    },
+    {
+      "Código antigo": "F18",
+      "Item Antigo": "Passar em uma Falsa Baiana ou subir em uma árvore ou virar cambalhota / estrela.",
+      "Código novo": "COR-V-107",
+      "Item Novo": "Passar em uma Falsa Baiana ou subir em uma árvore ou virar cambalhota / estrela.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Técnicas corporais"
+    },
+    {
+      "Código antigo": "F19",
+      "Item Antigo": "Praticar um esporte com regularidade.",
+      "Código novo": "COR-V-108",
+      "Item Novo": "Praticar um esporte com regularidade.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Esporte regular"
+    },
+    {
+      "Código antigo": "F21",
+      "Item Antigo": "Saber aplicar ataduras e tipóias.",
+      "Código novo": "COR-V-109",
+      "Item Novo": "Saber aplicar ataduras e tipóias.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Ataduras e tipóias"
+    },
+    {
+      "Código antigo": "F22",
+      "Item Antigo": "Identificar as situações que oferecem perigo nas atividades escoteiras e apontar os cuidados.",
+      "Código novo": "COR-V-110",
+      "Item Novo": "Identificar as situações que oferecem perigo nas atividades escoteiras e apontar os cuidados.",
+      "Bloco": "Cuidado com o Corpo",
+      "Palavra chave": "Segurança em atividade"
+    },
+    {
+      "Código antigo": "I7",
+      "Item Antigo": "Encapar um livro.",
+      "Código novo": "CRI-V-001",
+      "Item Novo": "EQUIVALÊNCIA PARCIAL - Em uma atividade de trabalhos manuais, utilizar a técnica de embrulho de presente e encapar um livro para sua melhor conservação.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Encapar livro"
+    },
+    {
+      "Código antigo": "I8",
+      "Item Antigo": "Embrulhar um presente.",
+      "Código novo": "CRI-V-001",
+      "Item Novo": "EQUIVALÊNCIA PARCIAL - Em uma atividade de trabalhos manuais, utilizar a técnica de embrulho de presente e encapar um livro para sua melhor conservação.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Encapar livro"
+    },
+    {
+      "Código antigo": "I9",
+      "Item Antigo": "Costurar um botão ou um distintivo em seu uniforme ou manta de Conselho.",
+      "Código novo": "CRI-V-002",
+      "Item Novo": "Costurar um distintivo em seu uniforme ou vestuário escoteiro.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Costurar distintivo"
+    },
+    {
+      "Código antigo": "I10",
+      "Item Antigo": "Participar da criação e apresentação de um esquete em uma Flor Vermelha.",
+      "Código novo": "CRI-V-003",
+      "Item Novo": "Criar e apresentar com sua matilha uma esquete em uma Flor Vermelha.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Esquete Flor Vermelha"
+    },
+    {
+      "Código antigo": "S32",
+      "Item Antigo": "Divulgar o seu Grupo Escoteiro na escola por meio de cartazes, depoimentos, vídeos, folders.",
+      "Código novo": "CRI-V-004",
+      "Item Novo": "Divulgar sua UEL na escola por meio de cartazes, depoimentos, vídeos e folders.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Divulgar UEL"
+    },
+    {
+      "Código antigo": "C7",
+      "Item Antigo": "Planejar, organizar e executar um pequeno projeto científico, artístico ou utilitário.",
+      "Código novo": "CRI-V-006",
+      "Item Novo": "Planejar, organizar e executar um pequeno projeto científico, artístico ou utilitário.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Pequeno projeto"
+    },
+    {
+      "Código antigo": "C2",
+      "Item Antigo": "Trazer a ideia de um jogo agradável e divertido.",
+      "Código novo": "CRI-V-007",
+      "Item Novo": "Ensinar um jogo para outros lobinhos.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Ensinar jogo"
+    },
+    {
+      "Código antigo": "I18",
+      "Item Antigo": "Ensinar um jogo para os (as) lobinhos (as).",
+      "Código novo": "CRI-V-007",
+      "Item Novo": "Ensinar um jogo para outros lobinhos.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Ensinar jogo"
+    },
+    {
+      "Código antigo": "I11",
+      "Item Antigo": "Fazer uma pintura, modelagem, colagem ou outro trabalho em arte visual.",
+      "Código novo": "CRI-V-102",
+      "Item Novo": "Fazer uma pintura, modelagem, colagem ou outro trabalho em arte visual.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Trabalho visual"
+    },
+    {
+      "Código antigo": "I12",
+      "Item Antigo": "Saber cantar três canções típicas da Alcateia e participar de uma dança da Jângal.",
+      "Código novo": "CRI-V-103",
+      "Item Novo": "Saber cantar três canções típicas da Alcateia e participar de uma dança da Jângal.",
+      "Bloco": "Criatividade e Inovação",
+      "Palavra chave": "Canções da Jângal - CRI"
+    },
+    {
+      "Código antigo": "S8",
+      "Item Antigo": "Participar ativamente de um Jogo Democrático e de uma Roca do Conselho.",
+      "Código novo": "DEM-F-001",
+      "Item Novo": "Participar ativamente de uma Roca de Conselho, expressando opiniões de forma respeitosa.",
+      "Bloco": "Democracia",
+      "Palavra chave": "Roca conselho"
+    },
+    {
+      "Código antigo": "S7",
+      "Item Antigo": "Participar da eleição do Primo e do Segundo de sua Matilha.",
+      "Código novo": "DEM-F-003",
+      "Item Novo": "Participar da eleição de primo e segundo da matilha e combinar suas responsabilidades.",
+      "Bloco": "Democracia",
+      "Palavra chave": "Eleição matilha"
+    },
+    {
+      "Código antigo": "I24",
+      "Item Antigo": "Participar de uma roda de conversa e emitir sua opinião.",
+      "Código novo": "DEM-V-003",
+      "Item Novo": "Participar de um debate com a alcateia sobre um tema de interesse dos lobinhos.",
+      "Bloco": "Democracia",
+      "Palavra chave": "Debate alcateia"
+    },
+    {
+      "Código antigo": "S8",
+      "Item Antigo": "Participar ativamente de um Jogo Democrático e de uma Roca do Conselho.",
+      "Código novo": "DEM-V-004",
+      "Item Novo": "Participar de um jogo democrático com a alcateia.",
+      "Bloco": "Democracia",
+      "Palavra chave": "Jogo democrático"
+    },
+    {
+      "Código antigo": "S5",
+      "Item Antigo": "Ouvir o episódio 'Flor Vermelha' - 2ª parte de 'Irmãos de Mowgli'",
+      "Código novo": "DEM-V-101",
+      "Item Novo": "Ouvir o episódio 'Flor Vermelha' - 2ª parte de 'Irmãos de Mowgli'",
+      "Bloco": "Democracia",
+      "Palavra chave": "Flor vermelha parte dois"
+    },
+    {
+      "Código antigo": "S6",
+      "Item Antigo": "Contar quais são as principais regras da escola, casa e Alcateia.",
+      "Código novo": "DEM-V-102",
+      "Item Novo": "Contar quais são as principais regras da escola, casa e Alcateia.",
+      "Bloco": "Democracia",
+      "Palavra chave": "Regras de convivência"
+    },
+    {
+      "Código antigo": "S8",
+      "Item Antigo": "Participar ativamente de um Jogo Democrático e de uma Roca do Conselho.",
+      "Código novo": "DEM-V-104",
+      "Item Novo": "Participar ativamente de um Jogo Democrático e de uma Roca do Conselho.",
+      "Bloco": "Democracia",
+      "Palavra chave": "Roca de conselho"
+    },
+    {
+      "Código antigo": "S21",
+      "Item Antigo": "Fazer com sua Matilha um cartaz ilustrado com os Direitos Universais da Criança (ONU – 1959).",
+      "Código novo": "DEM-V-105",
+      "Item Novo": "Fazer com sua Matilha um cartaz ilustrado com os Direitos Universais da Criança (ONU – 1959).",
+      "Bloco": "Democracia",
+      "Palavra chave": "Direitos da criança"
+    },
+    {
+      "Código antigo": "E4",
+      "Item Antigo": "Fazer as orações da Alcateia em duas reuniões semanais.",
+      "Código novo": "ESP-V-001",
+      "Item Novo": "Realizar orações de agradecimento ou momento de reflexão nas atividades da alcateia.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Oração reflexão"
+    },
+    {
+      "Código antigo": "E5",
+      "Item Antigo": "Representar artisticamente um símbolo de sua religião e apresentar à Alcateia, explicando o seu significado.",
+      "Código novo": "ESP-V-002",
+      "Item Novo": "Representar artisticamente um símbolo de sua religião e explicá-lo à alcateia.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Símbolo religião"
+    },
+    {
+      "Código antigo": "E9",
+      "Item Antigo": "Participar de uma roda da Alcateia em que todos agradecem pelo que têm e pela ajuda recebida.",
+      "Código novo": "ESP-V-005",
+      "Item Novo": "Participar de uma atividade que expresse gratidão sobre coisas da vida e da natureza.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Gratidão natureza"
+    },
+    {
+      "Código antigo": "E1",
+      "Item Antigo": "Em um passeio com a Alcateia, observar as belas coisas da natureza e agradecer por existirem.",
+      "Código novo": "ESP-V-101",
+      "Item Novo": "Em um passeio com a Alcateia, observar as belas coisas da natureza e agradecer por existirem.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Agradecer a natureza"
+    },
+    {
+      "Código antigo": "E2",
+      "Item Antigo": "Fazer um cartaz com coisas criadas por Deus e afixar na gruta.",
+      "Código novo": "ESP-V-102",
+      "Item Novo": "Fazer um cartaz com coisas criadas por Deus e afixar na gruta.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Cartaz da criação"
+    },
+    {
+      "Código antigo": "E3",
+      "Item Antigo": "Pesquisar uma oração de agradecimento em livros de sua religião e anotá-la no livro de orações da Alcateia.",
+      "Código novo": "ESP-V-103",
+      "Item Novo": "Pesquisar uma oração de agradecimento em livros de sua religião e anotá-la no livro de orações da Alcateia.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Livro de orações"
+    },
+    {
+      "Código antigo": "E4",
+      "Item Antigo": "Fazer as orações da Alcateia em duas reuniões semanais.",
+      "Código novo": "ESP-V-104",
+      "Item Novo": "Fazer as orações da Alcateia em duas reuniões semanais.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Orações da alcateia"
+    },
+    {
+      "Código antigo": "E5",
+      "Item Antigo": "Representar artisticamente um símbolo de sua religião e apresentar à Alcateia, explicando o seu significado.",
+      "Código novo": "ESP-V-105",
+      "Item Novo": "Representar artisticamente um símbolo de sua religião e apresentar à Alcateia, explicando o seu significado.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Símbolo religioso"
+    },
+    {
+      "Código antigo": "E6",
+      "Item Antigo": "Perguntar para sua família sobre os deveres para com Deus.",
+      "Código novo": "ESP-V-106",
+      "Item Novo": "Perguntar para sua família sobre os deveres para com Deus.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Deveres com Deus"
+    },
+    {
+      "Código antigo": "E11",
+      "Item Antigo": "Criar uma oração e conduzi-la em um momento especial.",
+      "Código novo": "ESP-V-107",
+      "Item Novo": "Criar uma oração e conduzi-la em um momento especial.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Momento de oração"
+    },
+    {
+      "Código antigo": "E12",
+      "Item Antigo": "Pesquisar uma oração em forma de canção e ensiná-la para a Alcateia.",
+      "Código novo": "ESP-V-108",
+      "Item Novo": "Pesquisar uma oração em forma de canção e ensiná-la para a Alcateia.",
+      "Bloco": "Espiritualidade",
+      "Palavra chave": "Oração cantada"
+    },
+    {
+      "Código antigo": "F24",
+      "Item Antigo": "Preparar uma refeição simples e saudável em atividade da Alcateia.",
+      "Código novo": "HAB-F-001",
+      "Item Novo": "Auxiliar na preparação de uma refeição saudável em um acampamento ou acantonamento da alcateia e experimentá-la.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Refeição saudável - Fixo"
+    },
+    {
+      "Código antigo": "F2",
+      "Item Antigo": "Saber vestir-se, manter-se arrumado e usar corretamente o uniforme.",
+      "Código novo": "HAB-V-001",
+      "Item Novo": "Utilizar o vestuário ou uniforme de lobinho adequadamente, demonstrando aplicação correta dos distintivos.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Uniforme adequado"
+    },
+    {
+      "Código antigo": "F8",
+      "Item Antigo": "Conhecer a importância de uma boa alimentação.",
+      "Código novo": "HAB-V-002",
+      "Item Novo": "Participar de atividades que demonstrem a importância de uma boa alimentação para a saúde.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Alimentação saudável"
+    },
+    {
+      "Código antigo": "F11",
+      "Item Antigo": "Escolher um esporte, aprender algumas coisas sobre ele e praticá-lo.",
+      "Código novo": "HAB-V-003",
+      "Item Novo": "Escolher um esporte, aprender sobre ele e praticá-lo, contando para a alcateia suas características e regras.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Praticar esporte"
+    },
+    {
+      "Código antigo": "F19",
+      "Item Antigo": "Praticar um esporte com regularidade.",
+      "Código novo": "HAB-V-003",
+      "Item Novo": "Escolher um esporte, aprender sobre ele e praticá-lo, contando para a alcateia suas características e regras.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Praticar esporte"
+    },
+    {
+      "Código antigo": "F1",
+      "Item Antigo": "Conhecer e praticar os cuidados básicos de higiene.",
+      "Código novo": "HAB-V-004",
+      "Item Novo": "Cuidar da limpeza do corpo, manter uma boa rotina de sono, alimentação, brincadeiras e estudos.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Rotina saudável - HAB"
+    },
+    {
+      "Código antigo": "F16",
+      "Item Antigo": "Cuidar da limpeza do corpo; dormir, comer e brincar nas horas certas.",
+      "Código novo": "HAB-V-004",
+      "Item Novo": "Cuidar da limpeza do corpo, manter uma boa rotina de sono, alimentação, brincadeiras e estudos.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Rotina saudável - HAB"
+    },
+    {
+      "Código antigo": "S19",
+      "Item Antigo": "Manter seu quarto e os seus pertences em ordem.",
+      "Código novo": "HAB-V-005",
+      "Item Novo": "Manter seu quarto e pertences em ordem.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Quarto organizado"
+    },
+    {
+      "Código antigo": "F7",
+      "Item Antigo": "Fazer as três principais refeições do dia em horários adequados.",
+      "Código novo": "HAB-V-006",
+      "Item Novo": "Fazer refeições saudáveis nos horários estabelecidos por sua família.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Horários refeições"
+    },
+    {
+      "Código antigo": "F9",
+      "Item Antigo": "Conhecer Bagheera e compreender porque ensina vida saudável.",
+      "Código novo": "HAB-V-007",
+      "Item Novo": "Conhecer Bagheera e entender como ela ensina a viver de forma saudável.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Conhecer Bagheera"
+    },
+    {
+      "Código antigo": "F1",
+      "Item Antigo": "Conhecer e praticar os cuidados básicos de higiene.",
+      "Código novo": "HAB-V-101",
+      "Item Novo": "Conhecer e praticar os cuidados básicos de higiene.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Higiene básica"
+    },
+    {
+      "Código antigo": "F2",
+      "Item Antigo": "Saber vestir-se, manter-se arrumado e usar corretamente o uniforme.",
+      "Código novo": "HAB-V-102",
+      "Item Novo": "Saber vestir-se, manter-se arrumado e usar corretamente o uniforme.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Uso do uniforme"
+    },
+    {
+      "Código antigo": "F3",
+      "Item Antigo": "Arrumar cama, mochila escolar, mochila de acampamento e ajudar na organização dos locais utilizados.",
+      "Código novo": "HAB-V-103",
+      "Item Novo": "Arrumar cama, mochila escolar, mochila de acampamento e ajudar na organização dos locais utilizados.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Organização diária"
+    },
+    {
+      "Código antigo": "F4",
+      "Item Antigo": "Demonstrar que conhece e pratica as regras de circulação de pedestres ou ciclistas e os principais sinais de trânsito.",
+      "Código novo": "HAB-V-104",
+      "Item Novo": "Demonstrar que conhece e pratica as regras de circulação de pedestres ou ciclistas e os principais sinais de trânsito.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Regras de trânsito"
+    },
+    {
+      "Código antigo": "F5",
+      "Item Antigo": "Conhecer cuidados para prevenção de acidentes domésticos.",
+      "Código novo": "HAB-V-105",
+      "Item Novo": "Conhecer cuidados para prevenção de acidentes domésticos.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Prevenção doméstica"
+    },
+    {
+      "Código antigo": "F6",
+      "Item Antigo": "Saber os primeiros socorros em cortes, queimaduras e outros pequenos ferimentos.",
+      "Código novo": "HAB-V-106",
+      "Item Novo": "Saber os primeiros socorros em cortes, queimaduras e outros pequenos ferimentos.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Primeiros ferimentos"
+    },
+    {
+      "Código antigo": "F9",
+      "Item Antigo": "Conhecer Bagheera e compreender porque ensina vida saudável.",
+      "Código novo": "HAB-V-107",
+      "Item Novo": "Conhecer Bagheera e compreender porque ensina vida saudável.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "História do Bagheera"
+    },
+    {
+      "Código antigo": "F11",
+      "Item Antigo": "Escolher um esporte, aprender algumas coisas sobre ele e praticá-lo.",
+      "Código novo": "HAB-V-108",
+      "Item Novo": "Escolher um esporte, aprender algumas coisas sobre ele e praticá-lo.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Praticar um esporte"
+    },
+    {
+      "Código antigo": "F23",
+      "Item Antigo": "Conhecer a pirâmide alimentar e os grupos alimentares.",
+      "Código novo": "HAB-V-109",
+      "Item Novo": "Conhecer a pirâmide alimentar e os grupos alimentares.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Pirâmide alimentar"
+    },
+    {
+      "Código antigo": "F24",
+      "Item Antigo": "Preparar uma refeição simples e saudável em atividade da Alcateia.",
+      "Código novo": "HAB-V-110",
+      "Item Novo": "Auxiliar na preparação de uma refeição saudável em um acampamento ou acantonamento da alcateia e experimentá-la.",
+      "Bloco": "Hábitos Saudáveis",
+      "Palavra chave": "Refeição saudável - Fixo"
+    },
+    {
+      "Código antigo": "S11",
+      "Item Antigo": "Conhecer o Hino Nacional Brasileiro e cantá-lo.",
+      "Código novo": "HER-V-002",
+      "Item Novo": "Aprender e cantar o Hino Nacional Brasileiro e conhecer os elementos e simbolismo da Bandeira Nacional.",
+      "Bloco": "Herança Cultural",
+      "Palavra chave": "Hino nacional e bandeira"
+    },
+    {
+      "Código antigo": "S28",
+      "Item Antigo": "Visitar um lugar público (museu, biblioteca, rádio, TV etc.).",
+      "Código novo": "HER-V-005",
+      "Item Novo": "Visitar um museu histórico com a alcateia e contar o que mais chamou a atenção.",
+      "Bloco": "Herança Cultural",
+      "Palavra chave": "Visita museu"
+    },
+    {
+      "Código antigo": "S10",
+      "Item Antigo": "Conhecer os elementos que constituem a Bandeira Nacional e o seu simbolismo.",
+      "Código novo": "HER-V-101",
+      "Item Novo": "Conhecer os elementos que constituem a Bandeira Nacional e o seu simbolismo.",
+      "Bloco": "Herança Cultural",
+      "Palavra chave": "Símbolos nacionais"
+    },
+    {
+      "Código antigo": "S11",
+      "Item Antigo": "Conhecer o Hino Nacional Brasileiro e cantá-lo.",
+      "Código novo": "HER-V-102",
+      "Item Novo": "Conhecer o Hino Nacional Brasileiro e cantá-lo.",
+      "Bloco": "Herança Cultural",
+      "Palavra chave": "Hino Nacional"
+    },
+    {
+      "Código antigo": "S12",
+      "Item Antigo": "Participar de um desfile cívico.",
+      "Código novo": "HER-V-103",
+      "Item Novo": "Participar de um desfile cívico.",
+      "Bloco": "Herança Cultural",
+      "Palavra chave": "Ato cívico"
+    },
+    {
+      "Código antigo": "S23",
+      "Item Antigo": "Conhecer uma canção, uma dança e uma brincadeira folclórica do Brasil.",
+      "Código novo": "HER-V-104",
+      "Item Novo": "Conhecer uma canção, uma dança e uma brincadeira folclórica do Brasil.",
+      "Bloco": "Herança Cultural",
+      "Palavra chave": "Cultura folclórica"
+    },
+    {
+      "Código antigo": "A17",
+      "Item Antigo": "Pedir para a sua Matilha e para os Velhos Lobos escreverem algumas qualidades e defeitos seus e refletir sobre isso.",
+      "Código novo": "IEM-V-001",
+      "Item Novo": "Conversar com a família, responsáveis ou Velhos Lobos sobre pontos que gosta e não gosta em si mesmo e como melhorá-los.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Conversar sobre si"
+    },
+    {
+      "Código antigo": "C3",
+      "Item Antigo": "Demonstrar que é capaz de manter o bom humor em um momento de dificuldade.",
+      "Código novo": "IEM-V-002",
+      "Item Novo": "Contar a um Velho Lobo sobre um momento difícil recente e descrever o que ajudou a melhorar a situação.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Momento difícil"
+    },
+    {
+      "Código antigo": "I12",
+      "Item Antigo": "Saber cantar três canções típicas da Alcateia e participar de uma dança da Jângal.",
+      "Código novo": "IEM-V-003",
+      "Item Novo": "Cantar canções com a alcateia e participar de uma dança da Jângal.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Canções da Jângal - IEM"
+    },
+    {
+      "Código antigo": "C15",
+      "Item Antigo": "Empenhar-se para fazer alguma coisa que tenha encontrado dificuldade ou que não tenha conseguido fazer.",
+      "Código novo": "IEM-V-005",
+      "Item Novo": "Escolher um pequeno desafio que dá insegurança e tentar superá-lo; depois contar a um Velho Lobo o que mudou.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Superar desafio"
+    },
+    {
+      "Código antigo": "C8",
+      "Item Antigo": "Contar para um Velho Lobo sobre os conselhos recebidos de seus pais e professores e como está se esforçando para atendê-los.",
+      "Código novo": "IEM-V-102",
+      "Item Novo": "Contar para um Velho Lobo sobre os conselhos recebidos de seus pais e professores e como está se esforçando para atendê-los.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Conselhos recebidos"
+    },
+    {
+      "Código antigo": "C9",
+      "Item Antigo": "Analisar o comportamento das personagens em Caçadas de Kaa, percebendo as ações certas e as erradas e suas conseqüências.",
+      "Código novo": "IEM-V-103",
+      "Item Novo": "Analisar o comportamento das personagens em Caçadas de Kaa, percebendo as ações certas e as erradas e suas conseqüências.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Caçadas de Kaa - IEM"
+    },
+    {
+      "Código antigo": "C10",
+      "Item Antigo": "Fazer uma lista com coisas que pode fazer e coisas que não pode fazer e discutir sobre elas em roda de conversa da Alcatéia.",
+      "Código novo": "IEM-V-104",
+      "Item Novo": "Fazer uma lista com coisas que pode fazer e coisas que não pode fazer e discutir sobre elas em roda de conversa da Alcatéia.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Roda de possibilidades"
+    },
+    {
+      "Código antigo": "C15",
+      "Item Antigo": "Empenhar-se para fazer alguma coisa que tenha encontrado dificuldade ou que não tenha conseguido fazer.",
+      "Código novo": "IEM-V-105",
+      "Item Novo": "Empenhar-se para fazer alguma coisa que tenha encontrado dificuldade ou que não tenha conseguido fazer.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Superação de limites"
+    },
+    {
+      "Código antigo": "C16",
+      "Item Antigo": "Listar os seus pontos fortes e seus pontos fracos, identificar o que mais precisa melhorar em você e esforçar-se para isso.",
+      "Código novo": "IEM-V-106",
+      "Item Novo": "Listar os seus pontos fortes e seus pontos fracos, identificar o que mais precisa melhorar em você e esforçar-se para isso.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Pontos fortes fracos"
+    },
+    {
+      "Código antigo": "I17",
+      "Item Antigo": "Dar corretamente um recado da Alcatéia para seus pais ou vice- versa.",
+      "Código novo": "IEM-V-107",
+      "Item Novo": "Dar corretamente um recado da Alcatéia para seus pais ou vice- versa.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Passar recado"
+    },
+    {
+      "Código antigo": "I18",
+      "Item Antigo": "Ensinar um jogo para os (as) lobinhos (as).",
+      "Código novo": "IEM-V-108",
+      "Item Novo": "Ensinar um jogo para os (as) lobinhos (as).",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Ensinar brincadeira"
+    },
+    {
+      "Código antigo": "I19",
+      "Item Antigo": "Escrever uma carta para um Velho Lobo e colocá-la no correio ou passar um telegrama ou mandar uma mensagem por e-mail.",
+      "Código novo": "IEM-V-109",
+      "Item Novo": "Escrever uma carta para um Velho Lobo e colocá-la no correio ou passar um telegrama ou mandar uma mensagem por e-mail.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Carta ao lobo"
+    },
+    {
+      "Código antigo": "I20",
+      "Item Antigo": "Demonstrar para a Alcatéia um conhecimento ou uma habilidade que possui.",
+      "Código novo": "IEM-V-110",
+      "Item Novo": "Demonstrar para a Alcatéia um conhecimento ou uma habilidade que possui.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Mostrar talento"
+    },
+    {
+      "Código antigo": "I21",
+      "Item Antigo": "Avaliar uma atividade de que tenha participado, identificando os pontos positivos e negativos e fazer sugestões de melhoria.",
+      "Código novo": "IEM-V-111",
+      "Item Novo": "Avaliar uma atividade de que tenha participado, identificando os pontos positivos e negativos e fazer sugestões de melhoria.",
+      "Bloco": "Inteligência Emocional",
+      "Palavra chave": "Crítica construtiva"
+    },
+    {
+      "Código antigo": "E8",
+      "Item Antigo": "Visitar um templo de outra religião e manter uma atitude de respeito.",
+      "Código novo": "PAZ-V-002",
+      "Item Novo": "Visitar um templo de uma religião diferente da sua e expressar suas impressões por meio de desenho ou depoimento.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Visita templo"
+    },
+    {
+      "Código antigo": "S14",
+      "Item Antigo": "Visitar outro Grupo Escoteiro e participar de atividade com a Alcateia.",
+      "Código novo": "PAZ-V-004",
+      "Item Novo": "Visitar outra UEL e refletir sobre o que é a Fraternidade Escoteira.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Visita outra UEL"
+    },
+    {
+      "Código antigo": "A10",
+      "Item Antigo": "Conhecer a família de um (a) lobinho (a) da Alcatéia e convidar um (a) lobinho (a) para um momento de convivência com sua família.",
+      "Código novo": "PAZ-V-101",
+      "Item Novo": "Conhecer a família de um (a) lobinho (a) da Alcatéia e convidar um (a) lobinho (a) para um momento de convivência com sua família.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Convivência familiar"
+    },
+    {
+      "Código antigo": "A11",
+      "Item Antigo": "Anotar durante duas semanas todas as boas ações que praticou diariamente e apresentar para um Velho Lobo.",
+      "Código novo": "PAZ-V-102",
+      "Item Novo": "Anotar durante duas semanas todas as boas ações que praticou diariamente e apresentar para um Velho Lobo.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Diário boas ações"
+    },
+    {
+      "Código antigo": "A12",
+      "Item Antigo": "Fazer uma economia para comprar algo útil para a Alcatéia ou para alguém à sua escolha.",
+      "Código novo": "PAZ-V-103",
+      "Item Novo": "Fazer uma economia para comprar algo útil para a Alcatéia ou para alguém à sua escolha.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Economia útil"
+    },
+    {
+      "Código antigo": "A13",
+      "Item Antigo": "Visitar com sua Matilha um asilo / creche ou outra entidade de assistência e ajudar a fazer algo de que necessitam.",
+      "Código novo": "PAZ-V-104",
+      "Item Novo": "Visitar com sua Matilha um asilo / creche ou outra entidade de assistência e ajudar a fazer algo de que necessitam.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Visita assistencial - PAZ"
+    },
+    {
+      "Código antigo": "E7",
+      "Item Antigo": "Fazer uma lista com as religiões dos lobinhos.",
+      "Código novo": "PAZ-V-105",
+      "Item Novo": "Fazer uma lista com as religiões dos lobinhos.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Mapeamento religioso"
+    },
+    {
+      "Código antigo": "E8",
+      "Item Antigo": "Visitar um templo de outra religião e manter uma atitude de respeito.",
+      "Código novo": "PAZ-V-106",
+      "Item Novo": "Visitar um templo de outra religião e manter uma atitude de respeito.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Respeito aos templos"
+    },
+    {
+      "Código antigo": "E15",
+      "Item Antigo": "Conhecer a história de Francisco de Assis e sua visão da natureza e das pessoas, inclusive o episódio com o Lobo de Gubbio.",
+      "Código novo": "PAZ-V-107",
+      "Item Novo": "Conhecer a história de Francisco de Assis e sua visão da natureza e das pessoas, inclusive o episódio com o Lobo de Gubbio.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Francisco de Assis"
+    },
+    {
+      "Código antigo": "E16",
+      "Item Antigo": "Fazer uma lista com 5 atitudes positivas que percebeu em outras pessoas.",
+      "Código novo": "PAZ-V-108",
+      "Item Novo": "Fazer uma lista com 5 atitudes positivas que percebeu em outras pessoas.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Elogiar o próximo"
+    },
+    {
+      "Código antigo": "S29",
+      "Item Antigo": "Conhecer a história de Kotick, a foca branca.",
+      "Código novo": "PAZ-V-109",
+      "Item Novo": "Conhecer a história de Kotick, a foca branca.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Kotick foca branca"
+    },
+    {
+      "Código antigo": "S30",
+      "Item Antigo": "Ler ou ouvir a história resumida da vida de Robert Baden-Powell e da criação do Movimento Escoteiro.",
+      "Código novo": "PAZ-V-110",
+      "Item Novo": "Ler ou ouvir a história resumida da vida de Robert Baden-Powell e da criação do Movimento Escoteiro.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Origem do escotismo"
+    },
+    {
+      "Código antigo": "S31",
+      "Item Antigo": "Participar de atividade distrital ou regional do Ramo Lobinho ou JOTA/JOTI.",
+      "Código novo": "PAZ-V-111",
+      "Item Novo": "Participar de atividade distrital ou regional do Ramo Lobinho ou JOTA/JOTI.",
+      "Bloco": "Promoção da Paz",
+      "Palavra chave": "Grandes acampamentos - PAZ"
+    },
+    {
+      "Código antigo": "A15",
+      "Item Antigo": "Ajudar algum amigo (a) com algo que seja difícil para ele (a) e relatar esta experiência a um Velho Lobo.",
+      "Código novo": "SMA-V-002",
+      "Item Novo": "Ajudar um amigo com alguma dificuldade e relatar a experiência a um Velho Lobo.",
+      "Bloco": "Saúde Mental",
+      "Palavra chave": "Ajudar amigo"
+    },
+    {
+      "Código antigo": "f15",
+      "Item Antigo": "Fazer um diário das atividades da semana e analisar o uso do tempo.",
+      "Código novo": "SMA-V-006",
+      "Item Novo": "Identificar suas atividades favoritas e separar um tempo para praticá-las.",
+      "Bloco": "Saúde Mental",
+      "Palavra chave": "Atividades favoritas"
+    },
+    {
+      "Código antigo": "A6",
+      "Item Antigo": "Fazer uma lista com coisas que o deixam alegre, triste e com medo.",
+      "Código novo": "SMA-V-101",
+      "Item Novo": "Fazer uma lista com coisas que o deixam alegre, triste e com medo.",
+      "Bloco": "Saúde Mental",
+      "Palavra chave": "Lista de emoções"
+    },
+    {
+      "Código antigo": "A7",
+      "Item Antigo": "Conhecer a história de Rikki Tikki Tavi.",
+      "Código novo": "SMA-V-102",
+      "Item Novo": "Conhecer a história de Rikki Tikki Tavi.",
+      "Bloco": "Saúde Mental",
+      "Palavra chave": "História Rikki Tikki"
+    },
+    {
+      "Código antigo": "F15",
+      "Item Antigo": "Fazer um diário das atividades da semana e analisar o uso do tempo.",
+      "Código novo": "SMA-V-103",
+      "Item Novo": "Fazer um diário das atividades da semana e analisar o uso do tempo.",
+      "Bloco": "Saúde Mental",
+      "Palavra chave": "Diário do tempo"
+    },
+    {
+      "Código antigo": "F16",
+      "Item Antigo": "Cuidar da limpeza do corpo; dormir, comer e brincar nas horas certas.",
+      "Código novo": "SMA-V-104",
+      "Item Novo": "Cuidar da limpeza do corpo; dormir, comer e brincar nas horas certas.",
+      "Bloco": "Saúde Mental",
+      "Palavra chave": "Rotina saudável - SMA"
+    },
+    {
+      "Código antigo": "C13",
+      "Item Antigo": "Conhecer a história 'Tigre Tigre' e comparar a promessa de Mowgli com a sua Promessa de Lobinho.",
+      "Código novo": "VAL-F-001",
+      "Item Novo": "Ouvir a história \"Tigre! Tigre!\" e comparar a conduta de Mowgli com a sua Promessa de Lobinho.",
+      "Bloco": "Valores",
+      "Palavra chave": "Tigre Tigre"
+    },
+    {
+      "Código antigo": "A8",
+      "Item Antigo": "Contar para um Velho Lobo sobre três boas ações que praticou em casa ou na escola.",
+      "Código novo": "VAL-V-001",
+      "Item Novo": "Contar a um Velho Lobo sobre três boas ações que praticou.",
+      "Bloco": "Valores",
+      "Palavra chave": "Três boas ações"
+    },
+    {
+      "Código antigo": "C1",
+      "Item Antigo": "Saber quem é Baloo e porque ele ensina a viver de acordo com a Lei da Jângal.",
+      "Código novo": "VAL-V-006",
+      "Item Novo": "Saber quem é Baloo e o motivo dele ensinar a viver de acordo com a Lei da Jângal.",
+      "Bloco": "Valores",
+      "Palavra chave": "Conhecer Baloo"
+    },
+    {
+      "Código antigo": "S6",
+      "Item Antigo": "Contar quais são as principais regras da escola, casa e Alcateia.",
+      "Código novo": "VAL-V-007",
+      "Item Novo": "Discutir com um Velho Lobo as principais regras dos locais onde convive.",
+      "Bloco": "Valores",
+      "Palavra chave": "Regras convivência Valores"
+    },
+    {
+      "Código antigo": "A9",
+      "Item Antigo": "Participar com sua Alcateia ou Grupo Escoteiro de uma campanha de ajuda ao próximo, doando algo seu para a campanha.",
+      "Código novo": "VAL-V-102",
+      "Item Novo": "Participar com sua Alcateia ou Grupo Escoteiro de uma campanha de ajuda ao próximo, doando algo seu para a campanha.",
+      "Bloco": "Valores",
+      "Palavra chave": "Campanha de doação"
+    },
+    {
+      "Código antigo": "C2",
+      "Item Antigo": "Trazer a ideia de um jogo agradável e divertido.",
+      "Código novo": "VAL-V-104",
+      "Item Novo": "Trazer a ideia de um jogo agradável e divertido.",
+      "Bloco": "Valores",
+      "Palavra chave": "Ideia de jogo"
+    },
+    {
+      "Código antigo": "C3",
+      "Item Antigo": "Demonstrar que é capaz de manter o bom humor em um momento de dificuldade.",
+      "Código novo": "VAL-V-105",
+      "Item Novo": "Demonstrar que é capaz de manter o bom humor em um momento de dificuldade.",
+      "Bloco": "Valores",
+      "Palavra chave": "Bom humor sempre"
+    },
+    {
+      "Código antigo": "C4",
+      "Item Antigo": "Contar para um Velho Lobo uma situação em que disse a verdade, mesmo correndo o risco de ser repreendido (a).",
+      "Código novo": "VAL-V-106",
+      "Item Novo": "Contar para um Velho Lobo uma situação em que disse a verdade, mesmo correndo o risco de ser repreendido (a).",
+      "Bloco": "Valores",
+      "Palavra chave": "Falar a verdade"
+    },
+    {
+      "Código antigo": "C14",
+      "Item Antigo": "Fazer uma lista com atitudes que mostram o cumprimento da Lei e Promessa.",
+      "Código novo": "VAL-V-108",
+      "Item Novo": "Fazer uma lista com atitudes que mostram o cumprimento da Lei e Promessa.",
+      "Bloco": "Valores",
+      "Palavra chave": "Atitudes da lei"
+    },
+    {
+      "Código antigo": "E13",
+      "Item Antigo": "Dizer quais são os principais preceitos de sua fé.",
+      "Código novo": "VAL-V-109",
+      "Item Novo": "Dizer quais são os principais preceitos de sua fé.",
+      "Bloco": "Valores",
+      "Palavra chave": "Preceitos da fé"
+    },
+    {
+      "Código antigo": "E14",
+      "Item Antigo": "Escrever uma história ou desenhar uma história em quadrinhos que mostre uma situação em que você agiu de acordo com os ensinamentos de sua fé.",
+      "Código novo": "VAL-V-110",
+      "Item Novo": "Escrever uma história ou desenhar uma história em quadrinhos que mostre uma situação em que você agiu de acordo com os ensinamentos de sua fé.",
+      "Bloco": "Valores",
+      "Palavra chave": "História de fé"
+    },
+    {
+      "Código antigo": "S19",
+      "Item Antigo": "Manter seu quarto e os seus pertences em ordem.",
+      "Código novo": "VAL-V-111",
+      "Item Novo": "Manter seu quarto e os seus pertences em ordem.",
+      "Bloco": "Valores",
+      "Palavra chave": "Quarto ordenado"
+    },
+    {
+      "Código antigo": "S20",
+      "Item Antigo": "Desempenhar as tarefas de serviço que lhe couberem durante um acampamento e nas reuniões da Alcatéia.",
+      "Código novo": "VAL-V-112",
+      "Item Novo": "Desempenhar as tarefas de serviço que lhe couberem durante um acampamento e nas reuniões da Alcatéia.",
+      "Bloco": "Valores",
+      "Palavra chave": "Deveres do campo"
+    },
+    {
+      "Código antigo": "A2",
+      "Item Antigo": "Cumprimentar outros membros do Grupo Escoteiro por meio da saudação do lobinho e do aperto de mão.",
+      "Código novo": "VIN-F-002",
+      "Item Novo": "Cumprimentar membros do grupo com a saudação do lobinho e o aperto de mão.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Saudação grupo"
+    },
+    {
+      "Código antigo": "A3",
+      "Item Antigo": "Trazer um amigo ou parente para participar de uma reunião e conhecer a Alcatéia.",
+      "Código novo": "VIN-V-004",
+      "Item Novo": "Convidar um amigo ou parente para conhecer e participar de uma atividade da alcateia.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Convidar amigo"
+    },
+    {
+      "Código antigo": "A16",
+      "Item Antigo": "Receber com alegria os lobinhos novos e ajudá-los a se integrarem à Alcatéia.",
+      "Código novo": "VIN-V-007",
+      "Item Novo": "Acolher os novos lobinhos e ajudá-los a se integrar na alcateia.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Acolher novos"
+    },
+    {
+      "Código antigo": "S13",
+      "Item Antigo": "Saber quais são as diversas Seções do seu Grupo Escoteiro e participar de atividade com alguma delas.",
+      "Código novo": "VIN-V-008",
+      "Item Novo": "Conhecer as seções do grupo escoteiro e participar de uma atividade com outra seção.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Conhecer seções"
+    },
+    {
+      "Código antigo": "S15",
+      "Item Antigo": "Participar de uma atividade distrital ou intergrupos do Ramo Lobinho.",
+      "Código novo": "VIN-V-009",
+      "Item Novo": "Participar de uma atividade entre diferentes UELs ou atividade regional do Ramo Lobinho.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Atividade regional"
+    },
+    {
+      "Código antigo": "S31",
+      "Item Antigo": "Participar de atividade distrital ou regional do Ramo Lobinho ou JOTA/JOTI.",
+      "Código novo": "VIN-V-009",
+      "Item Novo": "Participar de uma atividade entre diferentes UELs ou atividade regional do Ramo Lobinho.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Atividade regional"
+    },
+    {
+      "Código antigo": "A14",
+      "Item Antigo": "Ter uma agenda com telefone e/ou e-mail dos seus amigos e manter contato com eles.",
+      "Código novo": "VIN-V-011",
+      "Item Novo": "Manter contato com amigos da alcateia além da atividade semanal.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Contato amigos"
+    },
+    {
+      "Código antigo": "A1",
+      "Item Antigo": "Conversar e brincar com todos os (as) lobinhos (as) e com os Velhos Lobos.",
+      "Código novo": "VIN-V-101",
+      "Item Novo": "Conversar e brincar com todos os (as) lobinhos (as) e com os Velhos Lobos.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Interação e brincadeiras"
+    },
+    {
+      "Código antigo": "A2",
+      "Item Antigo": "Cumprimentar outros membros do Grupo Escoteiro por meio da saudação do lobinho e do aperto de mão.",
+      "Código novo": "VIN-V-102",
+      "Item Novo": "Cumprimentar outros membros do Grupo Escoteiro por meio da saudação do lobinho e do aperto de mão.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Cumprimento escoteiro"
+    },
+    {
+      "Código antigo": "A3",
+      "Item Antigo": "Trazer um amigo ou parente para participar de uma reunião e conhecer a Alcatéia.",
+      "Código novo": "VIN-V-103",
+      "Item Novo": "Convidar um amigo ou parente para conhecer e participar de uma atividade da alcateia.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Convidar amigo"
+    },
+    {
+      "Código antigo": "A4",
+      "Item Antigo": "Trazer fotos de sua família e mostrar à Alcateia contando algo sobre cada pessoa e sobre as coisas que mais gosta de fazer com elas.",
+      "Código novo": "VIN-V-104",
+      "Item Novo": "Trazer fotos de sua família e mostrar à Alcateia contando algo sobre cada pessoa e sobre as coisas que mais gosta de fazer com elas.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Mural da família"
+    },
+    {
+      "Código antigo": "A5",
+      "Item Antigo": "Participar de um acampamento ou acantonamento com sua Alcateia sem a presença de seus pais.",
+      "Código novo": "VIN-V-105",
+      "Item Novo": "Participar de um acampamento ou acantonamento com sua Alcateia sem a presença de seus pais.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Acampamento sem pais"
+    },
+    {
+      "Código antigo": "A15",
+      "Item Antigo": "Ajudar algum amigo (a) com algo que seja difícil para ele (a) e relatar esta experiência a um Velho Lobo.",
+      "Código novo": "VIN-V-107",
+      "Item Novo": "Ajudar algum amigo (a) com algo que seja difícil para ele (a) e relatar esta experiência a um Velho Lobo.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Ajudar um amigo"
+    },
+    {
+      "Código antigo": "A17",
+      "Item Antigo": "Pedir para a sua Matilha e para os Velhos Lobos escreverem algumas qualidades e defeitos seus e refletir sobre isso.",
+      "Código novo": "VIN-V-109",
+      "Item Novo": "Pedir para a sua Matilha e para os Velhos Lobos escreverem algumas qualidades e defeitos seus e refletir sobre isso.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Qualidades e defeitos"
+    },
+    {
+      "Código antigo": "A18",
+      "Item Antigo": "Conhecer as principais diferenças físicas entre homens e mulheres e perguntar a seus pais ou para os Velhos Lobos sobre curiosidades que tenha a respeito de sexo.",
+      "Código novo": "VIN-V-110",
+      "Item Novo": "Conhecer as principais diferenças físicas entre homens e mulheres e perguntar a seus pais ou para os Velhos Lobos sobre curiosidades que tenha a respeito de sexo.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Diferenças físicas"
+    },
+    {
+      "Código antigo": "A19",
+      "Item Antigo": "Pesquisar sobre as realizações de três homens e de três mulheres que foram importantes para a humanidade.",
+      "Código novo": "VIN-V-111",
+      "Item Novo": "Pesquisar sobre as realizações de três homens e de três mulheres que foram importantes para a humanidade.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Grandes figuras humanas"
+    },
+    {
+      "Código antigo": "C11",
+      "Item Antigo": "Narrar ou representar a história de uma pessoa cujo trabalho seja ajudar os demais.",
+      "Código novo": "VIN-V-112",
+      "Item Novo": "Narrar ou representar a história de uma pessoa cujo trabalho seja ajudar os demais.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Profissão solidária"
+    },
+    {
+      "Código antigo": "C12",
+      "Item Antigo": "Aplaudir, por meio de um Bravo verdadeiramente alegre, a vitória de seu adversário numa competição.",
+      "Código novo": "VIN-V-113",
+      "Item Novo": "Aplaudir, por meio de um Bravo verdadeiramente alegre, a vitória de seu adversário numa competição.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Bravo ao adversário"
+    },
+    {
+      "Código antigo": "S1",
+      "Item Antigo": "Saber como é organizada a Alcateia, conhecer as pessoas que dela fazem parte, saber fazer as formações e atender as vozes de comando dos Velhos Lobos.",
+      "Código novo": "VIN-V-114",
+      "Item Novo": "Saber como é organizada a Alcateia, conhecer as pessoas que dela fazem parte, saber fazer as formações e atender as vozes de comando dos Velhos Lobos.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Estrutura da alcateia"
+    },
+    {
+      "Código antigo": "S2",
+      "Item Antigo": "Ouvir o episódio \"Irmãos de Mowgli\" do Livro da Selva.",
+      "Código novo": "VIN-V-115",
+      "Item Novo": "Ouvir o episódio \"Irmãos de Mowgli\" do Livro da Selva.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Irmãos de Mowgli - VIN"
+    },
+    {
+      "Código antigo": "S3",
+      "Item Antigo": "Usar o Lema do Lobinho, a Saudação, o Aperto de Mão e participar do Grande Uivo, compreendendo seus significados.",
+      "Código novo": "VIN-V-116",
+      "Item Novo": "Usar o Lema do Lobinho, a Saudação, o Aperto de Mão e participar do Grande Uivo, compreendendo seus significados.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Tradições do ramo"
+    },
+    {
+      "Código antigo": "S4",
+      "Item Antigo": "Conhecer o uniforme/traje escoteiro e os primeiros distintivos.",
+      "Código novo": "VIN-V-117",
+      "Item Novo": "Conhecer o uniforme/traje escoteiro e os primeiros distintivos.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Uniforme e insígnias"
+    },
+    {
+      "Código antigo": "S14",
+      "Item Antigo": "Visitar outro Grupo Escoteiro e participar de atividade com a Alcateia.",
+      "Código novo": "VIN-V-119",
+      "Item Novo": "Visitar outro Grupo Escoteiro e participar de atividade com a Alcateia.",
+      "Bloco": "Vínculos Saudáveis",
+      "Palavra chave": "Intercâmbio escoteiro"
+    }
+  ]
+}

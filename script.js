@@ -1,4 +1,5 @@
 
+
 let equivalencias = [];
 
 fetch('equivalencias.json')
@@ -33,12 +34,12 @@ document.getElementById('btnGerar').addEventListener('click', () => {
     linha = linha.trim();
 
     // Procura:
-    // Código + qualquer texto + data
-    //
-    // Exemplo:
-    // F1 Conhecer... 19/07/2025
+    // F1 Texto 19/07/2025
+    // A2 Texto Informe a data
 
-    const match = linha.match(/^([A-Z]+\d+)\s+.*?(\d{2}\/\d{2}\/\d{4}|Informe a data)/i);
+    const match = linha.match(
+      /^([A-Z]+\d+)\s+.*?(\d{2}\/\d{2}\/\d{4}|Informe a data)/i
+    );
 
     if (!match) return;
 
@@ -60,6 +61,8 @@ document.getElementById('btnGerar').addEventListener('click', () => {
     equivalentes.forEach(eq => {
 
       resultados.push({
+        codigoAntigo: eq.codigoAntigo || '',
+        itemAntigo: eq.itemAntigo || '',
         codigoNovo: eq.codigoNovo || '',
         itemNovo: eq.itemNovo || '',
         data: data,
@@ -93,6 +96,8 @@ function renderizarTabela(resultados) {
     <table id="tabelaResultado">
       <thead>
         <tr>
+          <th>Código Antigo</th>
+          <th>Item Antigo</th>
           <th>Código Novo</th>
           <th>Item Novo</th>
           <th>Data</th>
@@ -106,6 +111,8 @@ function renderizarTabela(resultados) {
 
     html += `
       <tr>
+        <td>${r.codigoAntigo}</td>
+        <td>${r.itemAntigo}</td>
         <td>${r.codigoNovo}</td>
         <td>${r.itemNovo}</td>
         <td>${r.data}</td>
@@ -153,4 +160,6 @@ function configurarCopia() {
   };
 
 }
+
+
 

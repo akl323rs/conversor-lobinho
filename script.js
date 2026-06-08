@@ -5,7 +5,7 @@ fetch('equivalencias.json')
   .then(res => res.json())
   .then(data => {
 
-    equivalencias = data;
+    equivalencias = data["Equivalência Itens"];
 
     console.log(
       'Equivalências carregadas:',
@@ -97,9 +97,9 @@ document
       const equivalentes =
         equivalencias.filter(eq =>
 
-          eq.codigoAntigo &&
+          eq["Código antigo"] &&
 
-          eq.codigoAntigo
+          eq["Código antigo"]
             .toString()
             .trim()
             .toUpperCase() === codigo
@@ -111,22 +111,22 @@ document
         resultados.push({
 
           codigoAntigo:
-            eq.codigoAntigo || '',
+            eq["Código antigo"] || '',
 
           itemAntigo:
-            itemAntigo || eq.itemAntigo || '',
-
-          codigoNovo:
-            eq.codigoNovo || '',
+            itemAntigo || eq["Item Antigo"] || '',
 
           itemNovo:
-            eq.itemNovo || '',
-
-          data:
-            data,
+            eq["Item Novo"] || '',
 
           bloco:
-            eq.bloco || ''
+            eq["Bloco"] || '',
+
+          palavraChave:
+            eq["Palavra chave"] || '',
+
+          data:
+            data
 
         });
 
@@ -169,13 +169,13 @@ function renderizarTabela(resultados) {
 
           <th>Item Antigo</th>
 
-          <th>Código Novo</th>
-
           <th>Item Novo</th>
+
+          <th>Bloco Novo</th>
 
           <th>Data</th>
 
-          <th>Bloco</th>
+          <th>Palavra chave</th>
 
         </tr>
 
@@ -194,13 +194,13 @@ function renderizarTabela(resultados) {
 
         <td>${r.itemAntigo}</td>
 
-        <td>${r.codigoNovo}</td>
-
         <td>${r.itemNovo}</td>
+
+        <td>${r.bloco}</td>
 
         <td>${r.data}</td>
 
-        <td>${r.bloco}</td>
+        <td>${r.palavraChave}</td>
 
       </tr>
 
@@ -259,5 +259,4 @@ function configurarCopia() {
   };
 
 }
-
 
